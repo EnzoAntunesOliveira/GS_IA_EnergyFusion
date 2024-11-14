@@ -1,0 +1,1051 @@
+fornecedor,marca,modelo,voltagem,diametro_helice_cm,numero_pás,material_helice,material_grade,numero_velocidades,potencia
+Fresnomaq Indústria,Rajada,Turbo,Híbrido,,,-,"Mesa, Parede e",,-
+Fresnomaq Indústria,Rajada,Turbo,Híbrido,,,-,"Mesa, Parede e",,-
+Fresnomaq Indústria,Rajada,Turbo,Híbrido,,,-,"Mesa, Parede e",,-
+Ventisol Indústria,VOM,ECO,30 CM,30.0,,TURBO,,,-
+Ventisol Indústria,VOM,ECO,30 CM,30.0,,TURBO,,,-
+ARNO,ARNO,Silence Force,220,40.0,3.0,Plástico,Metal,3.0,60
+MALLORY,MALLORY,Turbo Silence,127,30.0,3.0,Plástico,Plástico,3.0,55
+MONDIAL,MONDIAL,Ultra Force,127,35.0,5.0,Plástico,Metal,4.0,70
+BRITÂNIA,BRITÂNIA,Maxx Power,220,40.0,3.0,Metal,Metal,3.0,50
+BLACK & DECKER,BLACK & DECKER,Breeze Max,127,30.0,4.0,Metal,Plástico,2.0,65
+MALLORY,MONDIAL,ECO,30 CM,,,TURBO,,2.0,-
+Ventisol Indústria,MONDIAL,Ultra Force,30 CM,30.0,,-,Metal,2.0,70
+BLACK & DECKER,MALLORY,Breeze Max,30 CM,40.0,3.0,Plástico,,,-
+MONDIAL,BLACK & DECKER,Ultra Force,30 CM,,5.0,-,Plástico,,65
+ARNO,ARNO,Turbo Silence,Híbrido,,3.0,-,"Mesa, Parede e",,65
+BLACK & DECKER,VOM,Turbo,30 CM,35.0,3.0,-,Plástico,2.0,60
+BRITÂNIA,ARNO,Maxx Power,220,30.0,5.0,Metal,Plástico,3.0,70
+ARNO,MALLORY,Maxx Power,127,40.0,,Metal,Metal,4.0,55
+BLACK & DECKER,ARNO,ECO,220,30.0,3.0,Metal,,2.0,55
+MONDIAL,MALLORY,Breeze Max,30 CM,30.0,,-,Plástico,,55
+MONDIAL,ARNO,Turbo,127,30.0,4.0,Metal,Plástico,3.0,60
+Ventisol Indústria,VOM,Silence Force,220,40.0,3.0,Plástico,,3.0,55
+MONDIAL,MONDIAL,Maxx Power,220,30.0,5.0,-,"Mesa, Parede e",2.0,65
+ARNO,ARNO,Ultra Force,127,40.0,,-,,4.0,50
+Fresnomaq Indústria,ARNO,Maxx Power,Híbrido,30.0,5.0,Plástico,Metal,4.0,50
+Fresnomaq Indústria,VOM,Turbo,220,35.0,5.0,Metal,,3.0,-
+Ventisol Indústria,MALLORY,Turbo Silence,220,35.0,3.0,-,Plástico,3.0,70
+MALLORY,MALLORY,Turbo,127,40.0,5.0,Plástico,"Mesa, Parede e",,55
+Fresnomaq Indústria,BLACK & DECKER,Silence Force,Híbrido,,5.0,-,,,-
+MONDIAL,VOM,Maxx Power,30 CM,35.0,3.0,TURBO,,,50
+Ventisol Indústria,VOM,Breeze Max,30 CM,30.0,5.0,TURBO,,,65
+BRITÂNIA,VOM,Turbo,220,35.0,3.0,Plástico,,,50
+ARNO,ARNO,Turbo,127,35.0,5.0,Plástico,"Mesa, Parede e",2.0,50
+Ventisol Indústria,VOM,Ultra Force,220,,3.0,TURBO,"Mesa, Parede e",2.0,50
+Ventisol Indústria,MALLORY,Breeze Max,30 CM,35.0,,Metal,"Mesa, Parede e",3.0,55
+ARNO,Rajada,Silence Force,220,30.0,3.0,-,Plástico,3.0,55
+MALLORY,BRITÂNIA,Maxx Power,127,,3.0,-,,2.0,55
+BRITÂNIA,BLACK & DECKER,Maxx Power,Híbrido,30.0,3.0,Plástico,Metal,4.0,50
+BLACK & DECKER,VOM,Silence Force,127,40.0,4.0,TURBO,"Mesa, Parede e",,65
+MONDIAL,Rajada,Maxx Power,Híbrido,40.0,,Metal,,3.0,55
+Fresnomaq Indústria,MALLORY,Silence Force,30 CM,,5.0,-,,4.0,60
+BRITÂNIA,VOM,Turbo Silence,30 CM,,4.0,Metal,,4.0,55
+MONDIAL,ARNO,Maxx Power,127,35.0,4.0,Metal,Metal,3.0,65
+Ventisol Indústria,BRITÂNIA,Maxx Power,Híbrido,40.0,4.0,Metal,Plástico,2.0,-
+MALLORY,MALLORY,Silence Force,220,35.0,4.0,Plástico,"Mesa, Parede e",,55
+MONDIAL,ARNO,ECO,30 CM,30.0,3.0,Plástico,"Mesa, Parede e",3.0,65
+BRITÂNIA,VOM,Ultra Force,127,,,Metal,,,60
+BLACK & DECKER,ARNO,Maxx Power,220,,,-,"Mesa, Parede e",3.0,60
+BLACK & DECKER,BRITÂNIA,ECO,127,30.0,3.0,-,"Mesa, Parede e",3.0,65
+Ventisol Indústria,VOM,Turbo Silence,220,,3.0,TURBO,,,70
+Ventisol Indústria,Rajada,ECO,110V,34.0,3.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,VOM,Plus,220V,20.0,5.0,Metal,Mesa,3.0,60W
+Ventisol Indústria,Britânia,Turbo,110V,37.0,5.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,Arno,ECO,220V,40.0,5.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Turbo,220V,33.0,4.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Rajada,ECO,110V,42.0,4.0,Plástico,Mesa,3.0,60W
+Ventisol Indústria,Rajada,Turbo,220V,35.0,5.0,Plástico,Mesa,3.0,100W
+Fresnomaq Indústria,Britânia,Plus,220V,25.0,3.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Britânia,Turbo,220V,45.0,5.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Arno,Turbo,220V,49.0,3.0,Metal,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,VOM,Turbo,220V,33.0,3.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Rajada,Turbo,110V,35.0,5.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,Plus,110V,27.0,4.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,VOM,Turbo,110V,25.0,3.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,Plus,220V,47.0,3.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,VOM,ECO,110V,30.0,4.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,Turbo,220V,24.0,5.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,Rajada,Turbo,110V,23.0,3.0,Plástico,Mesa,3.0,60W
+Ventisol Indústria,Britânia,ECO,110V,35.0,5.0,Metal,Mesa,3.0,100W
+Fresnomaq Indústria,Britânia,Turbo,110V,44.0,5.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,VOM,Plus,110V,29.0,5.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Arno,Plus,110V,38.0,3.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Rajada,ECO,220V,22.0,4.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,ECO,220V,24.0,5.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Rajada,ECO,220V,36.0,4.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Turbo,220V,37.0,5.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,VOM,Turbo,220V,43.0,3.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,Plus,220V,44.0,3.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,VOM,ECO,110V,40.0,3.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Arno,ECO,220V,43.0,4.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,ECO,220V,43.0,4.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,VOM,Plus,220V,49.0,4.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,VOM,ECO,220V,25.0,4.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,Rajada,Turbo,110V,47.0,3.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Arno,ECO,220V,27.0,4.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Britânia,ECO,110V,21.0,3.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,VOM,Turbo,110V,44.0,4.0,Metal,Parede e Mesa,3.0,100W
+Ventisol Indústria,Rajada,Turbo,110V,24.0,5.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,Rajada,Plus,220V,21.0,4.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Rajada,Turbo,220V,31.0,5.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,Arno,ECO,220V,45.0,4.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,Turbo,110V,48.0,5.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,Plus,220V,45.0,5.0,Plástico,Mesa,3.0,100W
+Fresnomaq Indústria,Britânia,Plus,110V,22.0,5.0,Metal,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,VOM,ECO,110V,45.0,5.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,Rajada,Plus,220V,36.0,3.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,Turbo,220V,48.0,4.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,VOM,Turbo,220V,31.0,4.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,Rajada,Plus,220V,20.0,4.0,Metal,Mesa,3.0,100W
+Fresnomaq Indústria,Arno,ECO,110V,34.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Rajada,ECO,110V,34.0,3.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,VOM,Turbo,220V,37.0,4.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Turbo,220V,45.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Arno,Turbo,110V,50.0,4.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,Plus,110V,28.0,5.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,VOM,ECO,220V,33.0,4.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,Turbo,220V,40.0,4.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,VOM,Plus,110V,41.0,5.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,VOM,Turbo,110V,46.0,5.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Arno,Turbo,220V,47.0,4.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Arno,Plus,220V,45.0,4.0,Plástico,Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,Plus,220V,23.0,5.0,Metal,Mesa,3.0,60W
+Ventisol Indústria,Rajada,Plus,110V,46.0,4.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,Rajada,ECO,110V,40.0,3.0,Metal,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,VOM,ECO,220V,30.0,5.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Arno,ECO,110V,49.0,4.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Plus,220V,32.0,4.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,ECO,220V,34.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,ECO,110V,46.0,5.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,VOM,ECO,220V,21.0,3.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Britânia,Plus,110V,50.0,3.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,Turbo,220V,49.0,4.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,Rajada,ECO,110V,41.0,4.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,VOM,ECO,110V,23.0,3.0,Plástico,Mesa,5.0,80W
+Ventisol Indústria,Rajada,Turbo,110V,28.0,4.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Britânia,Turbo,110V,50.0,4.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,Turbo,110V,32.0,3.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Arno,ECO,110V,43.0,4.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,VOM,ECO,110V,40.0,4.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,VOM,Turbo,220V,30.0,3.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Plus,110V,45.0,4.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Britânia,Turbo,220V,49.0,3.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Rajada,ECO,220V,44.0,4.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,Plus,110V,23.0,5.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Britânia,Turbo,220V,26.0,5.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,VOM,ECO,220V,31.0,4.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,Rajada,Turbo,110V,24.0,3.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Turbo,220V,43.0,4.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Britânia,ECO,220V,45.0,4.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,VOM,ECO,220V,26.0,3.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Arno,Turbo,220V,21.0,3.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,VOM,ECO,110V,41.0,5.0,Metal,Parede e Mesa,5.0,100W
+Ventisol Indústria,VOM,Plus,220V,29.0,5.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,Rajada,Plus,220V,21.0,5.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Arno,ECO,220V,31.0,3.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Rajada,Turbo,110V,49.0,5.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,ECO,220V,49.0,5.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,Plus,110V,36.0,4.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,Turbo,110V,41.0,3.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Arno,Turbo,220V,43.0,4.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,Britânia,ECO,220V,32.0,5.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,VOM,Turbo,220V,25.0,3.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,VOM,Plus,220V,44.0,4.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,VOM,ECO,220V,22.0,3.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,VOM,Plus,110V,27.0,3.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Rajada,Turbo,110V,32.0,4.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,Britânia,Plus,220V,26.0,5.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,VOM,Turbo,110V,31.0,4.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,Arno,Plus,110V,40.0,4.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Plus,110V,27.0,5.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,Rajada,ECO,220V,32.0,4.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Plus,220V,48.0,5.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Arno,ECO,220V,38.0,4.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,ECO,110V,26.0,3.0,Plástico,Mesa,5.0,80W
+Ventisol Indústria,VOM,Plus,110V,41.0,4.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Arno,ECO,110V,22.0,3.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Britânia,Plus,220V,49.0,4.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,Britânia,ECO,220V,43.0,5.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,Rajada,Turbo,220V,37.0,3.0,Plástico,Mesa,5.0,80W
+Ventisol Indústria,Britânia,ECO,220V,47.0,4.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Rajada,Plus,110V,34.0,5.0,Metal,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Arno,Turbo,220V,22.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Arno,Plus,110V,30.0,3.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,VOM,ECO,110V,46.0,3.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,VOM,ECO,110V,41.0,5.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,Turbo,110V,22.0,3.0,Plástico,Mesa,3.0,60W
+Ventisol Indústria,Rajada,Plus,220V,31.0,3.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Rajada,Turbo,220V,31.0,3.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,Rajada,Turbo,110V,34.0,4.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Rajada,Turbo,220V,43.0,4.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,Britânia,Turbo,110V,33.0,3.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,Plus,220V,41.0,3.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,VOM,Plus,220V,40.0,3.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,Rajada,ECO,220V,36.0,4.0,Metal,Mesa,5.0,100W
+Fresnomaq Indústria,Arno,Turbo,220V,35.0,5.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Arno,ECO,110V,30.0,4.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Rajada,ECO,220V,20.0,5.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Rajada,ECO,220V,27.0,3.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,Rajada,ECO,220V,34.0,4.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,VOM,Turbo,220V,25.0,5.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,VOM,Turbo,220V,31.0,5.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,Britânia,ECO,110V,39.0,3.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,VOM,Turbo,220V,35.0,5.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,Britânia,Plus,220V,50.0,4.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,Plus,220V,21.0,4.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,ECO,110V,40.0,4.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Arno,ECO,220V,37.0,3.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Turbo,110V,40.0,4.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Britânia,Plus,110V,35.0,5.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,Britânia,Turbo,110V,23.0,5.0,Plástico,Mesa,5.0,80W
+Ventisol Indústria,Britânia,ECO,220V,35.0,4.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Arno,ECO,220V,47.0,3.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Britânia,ECO,220V,46.0,5.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,VOM,Plus,110V,33.0,5.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,Arno,Turbo,110V,26.0,4.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Plus,220V,37.0,5.0,Plástico,Mesa,3.0,60W
+Ventisol Indústria,Rajada,ECO,220V,21.0,3.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,VOM,Plus,110V,45.0,3.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,Plus,110V,21.0,5.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,Arno,Turbo,110V,26.0,5.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,VOM,Plus,110V,35.0,4.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Arno,ECO,220V,43.0,5.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,Rajada,Plus,110V,47.0,4.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,VOM,Turbo,110V,32.0,4.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,ECO,220V,42.0,4.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Britânia,Plus,220V,46.0,4.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,Arno,Plus,110V,30.0,3.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,VOM,ECO,110V,46.0,4.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,Plus,110V,40.0,4.0,Metal,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Arno,Turbo,110V,28.0,4.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Britânia,Plus,110V,43.0,3.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,Arno,Turbo,220V,42.0,3.0,Metal,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,ECO,220V,41.0,5.0,Plástico,Mesa,3.0,80W
+Fresnomaq Indústria,Arno,ECO,110V,31.0,5.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,Arno,ECO,220V,25.0,5.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,Britânia,ECO,220V,25.0,5.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,Rajada,ECO,220V,28.0,5.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,Rajada,Turbo,220V,37.0,4.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Arno,Turbo,220V,33.0,5.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Rajada,Plus,220V,31.0,5.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,Arno,ECO,220V,47.0,3.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,Turbo,220V,33.0,4.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Arno,ECO,220V,26.0,4.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,Britânia,Turbo,110V,34.0,3.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Britânia,Turbo,220V,44.0,5.0,Plástico,Mesa,3.0,100W
+Fresnomaq Indústria,Arno,ECO,220V,35.0,3.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,ECO,220V,34.0,3.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,VOM,Turbo,220V,24.0,3.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Arno,Plus,220V,20.0,5.0,Metal,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,Plus,220V,37.0,4.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,VOM,Plus,220V,27.0,5.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,VOM,Plus,110V,32.0,4.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,Rajada,ECO,110V,39.0,4.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Arno,ECO,110V,42.0,4.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,VOM,ECO,220V,39.0,4.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,Britânia,Plus,110V,44.0,3.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,Arno,ECO,110V,46.0,3.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,VOM,Turbo,220V,46.0,5.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,VOM,Plus,220V,44.0,3.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,VOM,Turbo,110V,27.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Rajada,Turbo,220V,39.0,5.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,ECO,220V,34.0,3.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,VOM,ECO,110V,42.0,5.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,Britânia,Turbo,220V,31.0,5.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,Britânia,Plus,220V,20.0,3.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Arno,ECO,110V,35.0,3.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,VOM,ECO,110V,37.0,3.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Arno,Turbo,220V,44.0,3.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,VOM,ECO,220V,47.0,3.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Arno,Turbo,110V,35.0,4.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,VOM,ECO,220V,30.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,VOM,Plus,110V,32.0,4.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,VOM,Plus,110V,22.0,4.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Britânia,ECO,110V,27.0,3.0,Metal,Mesa,3.0,60W
+Ventisol Indústria,VOM,ECO,110V,34.0,3.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,VOM,Plus,220V,23.0,3.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Rajada,Plus,110V,44.0,5.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,VOM,ECO,220V,37.0,3.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,VOM,ECO,220V,25.0,3.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,VOM,ECO,220V,38.0,5.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,Arno,Turbo,110V,21.0,3.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,Arno,Turbo,110V,33.0,3.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Arno,ECO,220V,41.0,3.0,Plástico,Mesa,3.0,100W
+Fresnomaq Indústria,VOM,Turbo,110V,25.0,3.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Rajada,Turbo,110V,28.0,4.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Rajada,ECO,110V,30.0,5.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,Plus,110V,23.0,4.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,VOM,Plus,220V,33.0,3.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Rajada,Plus,110V,32.0,3.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Britânia,ECO,220V,33.0,4.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,VOM,Turbo,110V,38.0,5.0,Metal,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Arno,ECO,110V,46.0,5.0,Metal,Mesa,5.0,100W
+Fresnomaq Indústria,VOM,Plus,220V,27.0,5.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Britânia,Turbo,220V,38.0,3.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Plus,110V,40.0,3.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Britânia,Turbo,220V,34.0,3.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,VOM,Plus,220V,30.0,3.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,Turbo,110V,34.0,3.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,Turbo,220V,39.0,4.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,Rajada,Turbo,110V,34.0,3.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,Rajada,ECO,110V,44.0,5.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,VOM,Plus,220V,25.0,3.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,Plus,220V,32.0,5.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Arno,ECO,220V,47.0,5.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,ECO,110V,48.0,4.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Plus,110V,45.0,5.0,Plástico,Mesa,3.0,100W
+Fresnomaq Indústria,Britânia,Turbo,110V,25.0,3.0,Metal,Parede e Mesa,3.0,100W
+Ventisol Indústria,Arno,Plus,220V,30.0,5.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,VOM,Plus,110V,44.0,3.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Arno,Plus,220V,34.0,5.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Arno,Plus,220V,37.0,3.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Arno,Plus,110V,46.0,3.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,Plus,220V,38.0,3.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,Rajada,ECO,220V,46.0,3.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,VOM,ECO,110V,38.0,5.0,Metal,Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,Plus,220V,44.0,3.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Rajada,ECO,110V,34.0,5.0,Plástico,Mesa,3.0,60W
+Fresnomaq Indústria,Britânia,ECO,220V,50.0,3.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,Arno,Plus,220V,33.0,4.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,Britânia,Plus,110V,49.0,5.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Arno,Plus,110V,49.0,4.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Arno,Turbo,110V,45.0,4.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Britânia,Plus,220V,22.0,4.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,Arno,Turbo,220V,33.0,4.0,Metal,Mesa,3.0,60W
+Ventisol Indústria,VOM,Plus,110V,28.0,3.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,Turbo,110V,46.0,5.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Britânia,Plus,220V,22.0,4.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Arno,Plus,220V,37.0,5.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,Arno,ECO,110V,45.0,4.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,VOM,Turbo,220V,21.0,3.0,Metal,Mesa,3.0,60W
+Ventisol Indústria,Arno,Plus,110V,50.0,3.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Rajada,ECO,110V,46.0,3.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Turbo,110V,45.0,4.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,Arno,Turbo,110V,48.0,5.0,Metal,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,Turbo,110V,26.0,4.0,Plástico,Mesa,3.0,60W
+Fresnomaq Indústria,VOM,Plus,220V,50.0,3.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,Plus,110V,49.0,5.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,Arno,ECO,220V,41.0,5.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,Rajada,Turbo,220V,35.0,4.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,Britânia,Turbo,110V,27.0,4.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,ECO,110V,35.0,4.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Britânia,Turbo,110V,41.0,3.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,Britânia,ECO,220V,40.0,3.0,Plástico,Mesa,5.0,80W
+Ventisol Indústria,Britânia,ECO,220V,32.0,3.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Britânia,ECO,110V,38.0,3.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,VOM,Turbo,110V,35.0,5.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,VOM,Plus,220V,21.0,5.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Britânia,Plus,110V,35.0,3.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Britânia,ECO,220V,37.0,4.0,Metal,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Arno,ECO,110V,29.0,5.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,VOM,ECO,220V,48.0,5.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,VOM,Turbo,110V,33.0,4.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Rajada,Turbo,110V,26.0,5.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,VOM,Plus,110V,28.0,4.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,Arno,Plus,220V,31.0,3.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,VOM,Turbo,110V,43.0,5.0,Plástico,Mesa,3.0,60W
+Fresnomaq Indústria,VOM,Turbo,110V,24.0,4.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,VOM,Turbo,220V,28.0,4.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Britânia,Plus,220V,28.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Rajada,Turbo,110V,48.0,4.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,Rajada,ECO,220V,46.0,5.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,Plus,220V,42.0,3.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,VOM,Plus,220V,28.0,5.0,Plástico,Mesa,3.0,60W
+Fresnomaq Indústria,VOM,Turbo,220V,49.0,4.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Britânia,ECO,220V,37.0,3.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,Britânia,ECO,110V,50.0,4.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Turbo,110V,33.0,3.0,Metal,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,VOM,Turbo,110V,38.0,3.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Arno,Turbo,220V,49.0,4.0,Plástico,Mesa,3.0,60W
+Ventisol Indústria,Arno,Turbo,220V,36.0,4.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,VOM,ECO,220V,24.0,5.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,Britânia,Turbo,220V,24.0,4.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Arno,Turbo,110V,34.0,4.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Arno,ECO,220V,21.0,5.0,Metal,Mesa,3.0,100W
+Fresnomaq Indústria,VOM,Turbo,220V,36.0,3.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,VOM,Plus,110V,47.0,5.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,Britânia,Plus,220V,37.0,3.0,Plástico,Mesa,5.0,80W
+Ventisol Indústria,Britânia,ECO,220V,49.0,5.0,Metal,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,VOM,Turbo,110V,36.0,5.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Rajada,ECO,220V,42.0,5.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,Rajada,Turbo,110V,47.0,3.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,Britânia,Plus,110V,28.0,3.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,VOM,Turbo,110V,23.0,4.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,VOM,Turbo,110V,45.0,4.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,Britânia,Turbo,110V,35.0,3.0,Metal,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Rajada,Turbo,110V,38.0,5.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,Plus,220V,43.0,4.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,Turbo,220V,43.0,4.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,Rajada,Plus,220V,32.0,5.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Arno,Plus,220V,23.0,5.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,Rajada,ECO,110V,35.0,4.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Rajada,ECO,220V,25.0,3.0,Plástico,Mesa,3.0,80W
+Fresnomaq Indústria,VOM,Plus,110V,29.0,5.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,Arno,ECO,220V,46.0,3.0,Metal,Mesa,3.0,60W
+Ventisol Indústria,Rajada,Plus,110V,25.0,3.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,VOM,Plus,110V,25.0,3.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Arno,ECO,220V,23.0,4.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,Britânia,ECO,110V,50.0,5.0,Plástico,Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,Turbo,110V,22.0,5.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,Arno,Plus,220V,41.0,4.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,ECO,220V,44.0,5.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,VOM,Turbo,110V,46.0,5.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,VOM,ECO,110V,41.0,5.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,Plus,110V,36.0,3.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,Britânia,Plus,110V,46.0,5.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,VOM,Plus,220V,22.0,3.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,Britânia,Plus,110V,24.0,4.0,Metal,Parede e Mesa,5.0,100W
+Ventisol Indústria,Britânia,Plus,110V,44.0,4.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,Rajada,ECO,220V,32.0,4.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,VOM,Turbo,220V,50.0,4.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,VOM,Plus,220V,26.0,4.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,Arno,Turbo,110V,49.0,5.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,Plus,220V,27.0,4.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,VOM,ECO,220V,33.0,4.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Britânia,Plus,220V,23.0,3.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Arno,Turbo,110V,31.0,4.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,Rajada,ECO,110V,40.0,4.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Britânia,Turbo,110V,40.0,3.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,Arno,ECO,220V,28.0,4.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,Rajada,Turbo,110V,49.0,4.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,Plus,220V,27.0,4.0,Plástico,Mesa,3.0,60W
+Ventisol Indústria,Arno,Plus,220V,23.0,4.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,VOM,ECO,110V,24.0,3.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,VOM,ECO,220V,24.0,3.0,Plástico,Mesa,3.0,60W
+Fresnomaq Indústria,Britânia,Turbo,110V,40.0,4.0,Plástico,Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,ECO,220V,20.0,3.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,Plus,220V,21.0,4.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Turbo,110V,22.0,4.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,VOM,Plus,220V,37.0,3.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,Britânia,Turbo,110V,49.0,4.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Britânia,Turbo,220V,40.0,3.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,Arno,Turbo,220V,29.0,4.0,Plástico,Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,ECO,220V,23.0,4.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,ECO,220V,22.0,5.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,VOM,Turbo,220V,27.0,5.0,Metal,Mesa,3.0,60W
+Ventisol Indústria,VOM,Turbo,110V,35.0,5.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Plus,110V,46.0,5.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,VOM,Turbo,110V,21.0,5.0,Metal,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Arno,ECO,110V,30.0,5.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,VOM,Turbo,110V,29.0,3.0,Metal,Mesa,3.0,60W
+Ventisol Indústria,Britânia,ECO,220V,22.0,5.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Britânia,Turbo,110V,38.0,5.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,Rajada,Plus,220V,33.0,4.0,Metal,Parede e Mesa,3.0,100W
+Ventisol Indústria,Rajada,ECO,220V,40.0,5.0,Metal,Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,Plus,220V,21.0,3.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Rajada,ECO,220V,26.0,5.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Britânia,Turbo,110V,49.0,5.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Plus,110V,48.0,4.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Arno,Turbo,110V,35.0,3.0,Metal,Parede e Mesa,3.0,100W
+Ventisol Indústria,VOM,Turbo,110V,50.0,4.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,VOM,Turbo,220V,47.0,3.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,Britânia,Turbo,110V,33.0,5.0,Plástico,Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,Plus,110V,44.0,3.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,ECO,220V,48.0,5.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Britânia,Plus,110V,35.0,4.0,Metal,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Rajada,Plus,220V,41.0,4.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Arno,Turbo,110V,37.0,3.0,Plástico,Mesa,3.0,60W
+Fresnomaq Indústria,Britânia,Plus,220V,34.0,5.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,Arno,ECO,220V,26.0,5.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Arno,Turbo,110V,38.0,5.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,Rajada,Turbo,220V,34.0,4.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,Plus,110V,46.0,4.0,Metal,Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,Turbo,220V,35.0,4.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,Britânia,Plus,110V,45.0,4.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,Rajada,ECO,220V,35.0,3.0,Metal,Parede e Mesa,5.0,100W
+Ventisol Indústria,Arno,ECO,220V,32.0,3.0,Plástico,Mesa,5.0,80W
+Ventisol Indústria,Arno,Plus,220V,30.0,3.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Plus,220V,24.0,5.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,Arno,ECO,220V,47.0,5.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Britânia,Plus,220V,28.0,4.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,Rajada,Plus,220V,27.0,5.0,Plástico,Mesa,5.0,80W
+Ventisol Indústria,Arno,Plus,110V,28.0,4.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,VOM,ECO,220V,42.0,4.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Arno,ECO,220V,49.0,4.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,ECO,110V,43.0,4.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,Arno,Turbo,220V,24.0,5.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,VOM,Turbo,110V,28.0,3.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,Britânia,ECO,110V,30.0,5.0,Metal,Mesa,3.0,60W
+Ventisol Indústria,Arno,ECO,110V,26.0,4.0,Metal,Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,Plus,110V,26.0,5.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Arno,Plus,110V,25.0,3.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,VOM,ECO,110V,36.0,3.0,Metal,Mesa,3.0,100W
+Fresnomaq Indústria,Arno,Plus,220V,27.0,5.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,VOM,Turbo,220V,32.0,5.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,Arno,Plus,220V,37.0,4.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,Arno,Turbo,110V,50.0,3.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,Rajada,ECO,220V,39.0,5.0,Plástico,Mesa,3.0,60W
+Ventisol Indústria,VOM,Plus,220V,33.0,3.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,VOM,Plus,110V,37.0,5.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,Rajada,ECO,220V,40.0,5.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Arno,ECO,220V,28.0,3.0,Plástico,Mesa,3.0,80W
+Fresnomaq Indústria,Arno,Plus,110V,30.0,3.0,Metal,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,VOM,ECO,110V,25.0,3.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,VOM,ECO,220V,31.0,4.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,VOM,Plus,220V,44.0,3.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Rajada,Plus,110V,37.0,5.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,Britânia,ECO,220V,20.0,3.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,VOM,Turbo,220V,21.0,3.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,Britânia,Turbo,220V,50.0,4.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Britânia,ECO,220V,24.0,4.0,Metal,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Arno,Plus,110V,43.0,5.0,Metal,Parede e Mesa,5.0,100W
+Ventisol Indústria,Britânia,ECO,220V,34.0,4.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Britânia,Turbo,220V,46.0,4.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Plus,110V,42.0,4.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,Turbo,110V,21.0,5.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,VOM,Turbo,220V,48.0,4.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,VOM,Turbo,110V,44.0,3.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,Turbo,220V,35.0,3.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,VOM,Turbo,220V,20.0,4.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,Arno,ECO,220V,34.0,3.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Arno,Plus,110V,28.0,4.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,Turbo,220V,26.0,4.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,VOM,Plus,110V,29.0,4.0,Metal,Mesa,5.0,100W
+Fresnomaq Indústria,Arno,Plus,220V,44.0,4.0,Metal,Parede e Mesa,5.0,100W
+Ventisol Indústria,Britânia,ECO,220V,48.0,5.0,Plástico,Mesa,5.0,80W
+Ventisol Indústria,Britânia,Turbo,110V,33.0,4.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,Arno,Turbo,110V,45.0,5.0,Plástico,Mesa,3.0,80W
+Fresnomaq Indústria,Rajada,Turbo,110V,37.0,4.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,VOM,ECO,110V,38.0,5.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,Rajada,ECO,220V,25.0,5.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Rajada,Turbo,220V,28.0,4.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Arno,ECO,220V,30.0,4.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,VOM,Plus,110V,50.0,3.0,Metal,Mesa,3.0,100W
+Fresnomaq Indústria,VOM,Plus,110V,23.0,5.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,Rajada,Plus,110V,38.0,5.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,Britânia,Plus,110V,45.0,3.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,Rajada,Turbo,220V,24.0,5.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Britânia,Turbo,220V,22.0,3.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,VOM,Turbo,220V,28.0,4.0,Metal,Mesa,5.0,100W
+Fresnomaq Indústria,Arno,Plus,220V,24.0,4.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,Britânia,Plus,220V,23.0,5.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,Arno,Turbo,110V,35.0,3.0,Metal,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,ECO,220V,44.0,3.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Arno,Plus,110V,46.0,4.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Arno,Turbo,220V,37.0,5.0,Metal,Mesa,3.0,60W
+Ventisol Indústria,VOM,Turbo,110V,40.0,4.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,VOM,Plus,220V,32.0,5.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,Britânia,ECO,110V,23.0,3.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,VOM,Turbo,220V,45.0,3.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,Arno,ECO,110V,23.0,5.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,Arno,Turbo,220V,29.0,3.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,VOM,Turbo,110V,22.0,4.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,VOM,Turbo,220V,41.0,4.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,Rajada,ECO,220V,35.0,4.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,Rajada,Plus,110V,26.0,5.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,VOM,ECO,220V,48.0,4.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Rajada,ECO,220V,40.0,4.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Arno,Turbo,220V,45.0,4.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Britânia,Plus,220V,23.0,4.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,VOM,ECO,110V,42.0,4.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Britânia,Plus,220V,28.0,5.0,Plástico,Mesa,3.0,80W
+Fresnomaq Indústria,VOM,ECO,110V,48.0,5.0,Metal,Parede e Mesa,3.0,100W
+Ventisol Indústria,VOM,Plus,220V,38.0,4.0,Metal,Mesa,3.0,60W
+Ventisol Indústria,Britânia,Turbo,110V,21.0,4.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,VOM,Plus,220V,47.0,4.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,Britânia,ECO,110V,29.0,5.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,VOM,Turbo,220V,41.0,5.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Turbo,220V,32.0,5.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,VOM,ECO,220V,26.0,5.0,Plástico,Mesa,5.0,80W
+Ventisol Indústria,Britânia,Turbo,220V,26.0,4.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,VOM,ECO,220V,21.0,4.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,Rajada,Plus,220V,27.0,5.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,Plus,220V,25.0,3.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,Arno,Plus,110V,41.0,3.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,Arno,ECO,110V,39.0,5.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,ECO,220V,50.0,4.0,Metal,Mesa,3.0,60W
+Ventisol Indústria,VOM,Plus,110V,49.0,3.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,VOM,Plus,220V,25.0,3.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,Rajada,Plus,220V,26.0,4.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Arno,Turbo,110V,34.0,4.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,Rajada,ECO,110V,28.0,3.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Plus,220V,33.0,5.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Plus,220V,27.0,4.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Rajada,ECO,220V,23.0,5.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Britânia,Plus,220V,20.0,4.0,Plástico,Mesa,3.0,100W
+Fresnomaq Indústria,VOM,ECO,220V,33.0,4.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,Britânia,Turbo,110V,20.0,4.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,VOM,Plus,220V,47.0,4.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,VOM,Plus,110V,38.0,3.0,Metal,Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,Plus,220V,41.0,3.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,Arno,Turbo,220V,49.0,4.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,Britânia,Turbo,110V,28.0,5.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,Rajada,ECO,110V,33.0,5.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,Turbo,110V,45.0,4.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,VOM,Turbo,220V,46.0,3.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Arno,Turbo,220V,45.0,4.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Arno,Turbo,220V,37.0,3.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,ECO,110V,40.0,5.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,VOM,ECO,110V,21.0,3.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,VOM,ECO,110V,34.0,3.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Arno,Plus,110V,39.0,3.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Rajada,Turbo,110V,35.0,4.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,Britânia,Plus,220V,43.0,3.0,Metal,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,ECO,220V,49.0,5.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Arno,Turbo,220V,34.0,4.0,Metal,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,ECO,110V,23.0,4.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Arno,Plus,220V,21.0,5.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,Britânia,Plus,220V,31.0,4.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Rajada,Plus,220V,43.0,5.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,VOM,Turbo,110V,21.0,3.0,Plástico,Mesa,3.0,80W
+Fresnomaq Indústria,Rajada,Turbo,110V,32.0,3.0,Plástico,Mesa,5.0,80W
+Ventisol Indústria,Britânia,Plus,220V,22.0,3.0,Metal,Mesa,3.0,60W
+Ventisol Indústria,Arno,ECO,110V,45.0,3.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,Rajada,Turbo,110V,49.0,4.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,Britânia,Plus,220V,37.0,3.0,Metal,Parede e Mesa,5.0,100W
+Ventisol Indústria,Arno,Plus,110V,38.0,4.0,Metal,Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,ECO,110V,44.0,5.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Turbo,220V,40.0,5.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,ECO,220V,46.0,3.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Britânia,Plus,220V,23.0,3.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,Britânia,Plus,110V,50.0,3.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,VOM,ECO,110V,37.0,4.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,VOM,Plus,220V,23.0,4.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,Rajada,ECO,220V,39.0,3.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,VOM,Plus,220V,34.0,3.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Rajada,ECO,110V,28.0,3.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Arno,Turbo,110V,31.0,4.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,VOM,ECO,110V,48.0,5.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,VOM,Turbo,220V,28.0,4.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,VOM,ECO,110V,29.0,5.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Turbo,220V,28.0,5.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Britânia,Turbo,110V,42.0,4.0,Metal,Mesa,3.0,100W
+Fresnomaq Indústria,Arno,ECO,220V,27.0,4.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,ECO,220V,47.0,3.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Arno,Plus,110V,46.0,4.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,Rajada,ECO,220V,37.0,3.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,Plus,110V,28.0,3.0,Metal,Mesa,3.0,60W
+Ventisol Indústria,VOM,ECO,110V,38.0,5.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,VOM,Plus,220V,48.0,5.0,Metal,Parede e Mesa,3.0,100W
+Ventisol Indústria,Britânia,Turbo,110V,20.0,3.0,Metal,Parede e Mesa,5.0,100W
+Ventisol Indústria,Arno,Turbo,110V,27.0,5.0,Plástico,Mesa,3.0,60W
+Ventisol Indústria,Rajada,ECO,220V,34.0,5.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,VOM,Turbo,110V,46.0,3.0,Metal,Parede e Mesa,5.0,100W
+Ventisol Indústria,VOM,ECO,110V,21.0,4.0,Metal,Parede e Mesa,5.0,100W
+Ventisol Indústria,VOM,ECO,220V,40.0,4.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,VOM,Plus,220V,44.0,3.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,Rajada,ECO,110V,29.0,5.0,Plástico,Mesa,3.0,100W
+Fresnomaq Indústria,Arno,Turbo,110V,29.0,3.0,Plástico,Mesa,3.0,60W
+Ventisol Indústria,Britânia,ECO,220V,20.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Arno,Turbo,110V,41.0,5.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,VOM,Plus,110V,33.0,4.0,Plástico,Mesa,5.0,80W
+Ventisol Indústria,Rajada,ECO,220V,31.0,5.0,Plástico,Mesa,3.0,80W
+Fresnomaq Indústria,VOM,ECO,220V,43.0,4.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,Arno,Turbo,220V,40.0,5.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,Arno,ECO,110V,22.0,3.0,Metal,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Arno,Turbo,220V,22.0,4.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,VOM,Plus,110V,39.0,4.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Britânia,ECO,220V,35.0,4.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,VOM,Plus,110V,50.0,4.0,Plástico,Mesa,3.0,100W
+Fresnomaq Indústria,Britânia,Plus,220V,45.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,Plus,220V,28.0,3.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,Britânia,Plus,110V,43.0,4.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,Plus,110V,35.0,4.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,Rajada,ECO,220V,29.0,3.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Britânia,ECO,220V,45.0,3.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,Turbo,220V,49.0,5.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,Arno,Turbo,220V,39.0,4.0,Plástico,Mesa,3.0,100W
+Fresnomaq Indústria,Britânia,Turbo,220V,27.0,4.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,VOM,ECO,220V,40.0,4.0,Plástico,Mesa,3.0,60W
+Fresnomaq Indústria,Arno,ECO,110V,35.0,4.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,Arno,ECO,110V,20.0,3.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,VOM,ECO,110V,25.0,3.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Arno,Turbo,110V,36.0,5.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Britânia,Turbo,110V,38.0,5.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Rajada,Turbo,220V,38.0,4.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,VOM,Turbo,220V,29.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Britânia,Turbo,110V,30.0,3.0,Plástico,Mesa,3.0,60W
+Ventisol Indústria,Britânia,Turbo,220V,24.0,4.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Arno,Turbo,220V,35.0,4.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,Turbo,220V,29.0,3.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,VOM,Turbo,110V,27.0,4.0,Plástico,Mesa,3.0,60W
+Fresnomaq Indústria,VOM,ECO,110V,35.0,3.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Britânia,Plus,110V,37.0,5.0,Plástico,Mesa,5.0,80W
+Ventisol Indústria,VOM,Turbo,220V,46.0,4.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,Rajada,Plus,110V,40.0,4.0,Metal,Parede e Mesa,5.0,100W
+Ventisol Indústria,Arno,Turbo,110V,47.0,4.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Britânia,ECO,110V,47.0,3.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,Rajada,ECO,220V,34.0,3.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,Britânia,Turbo,110V,31.0,5.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Britânia,ECO,110V,49.0,3.0,Plástico,Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,ECO,110V,23.0,5.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,Plus,220V,29.0,3.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,Rajada,Plus,220V,32.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Arno,Plus,220V,20.0,4.0,Metal,Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,ECO,110V,48.0,4.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,Britânia,Plus,220V,44.0,5.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Rajada,Turbo,110V,47.0,3.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Britânia,ECO,110V,30.0,4.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,VOM,Turbo,110V,24.0,5.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Rajada,ECO,110V,21.0,5.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,VOM,ECO,220V,29.0,5.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,Turbo,220V,48.0,4.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,ECO,220V,30.0,4.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Britânia,Turbo,220V,29.0,3.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Turbo,220V,27.0,3.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,VOM,Plus,220V,28.0,5.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,VOM,Plus,110V,47.0,3.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Arno,Turbo,110V,21.0,4.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,Plus,110V,47.0,5.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,Rajada,Plus,220V,38.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Rajada,Plus,220V,47.0,3.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,Turbo,110V,24.0,4.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Britânia,Plus,220V,21.0,5.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Britânia,ECO,110V,26.0,3.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Plus,220V,32.0,4.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Rajada,Plus,110V,48.0,4.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,VOM,ECO,220V,31.0,4.0,Plástico,Mesa,3.0,60W
+Fresnomaq Indústria,VOM,Plus,220V,43.0,4.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,VOM,ECO,110V,26.0,5.0,Plástico,Mesa,3.0,60W
+Fresnomaq Indústria,VOM,ECO,110V,34.0,5.0,Plástico,Mesa,3.0,60W
+Fresnomaq Indústria,VOM,Turbo,110V,45.0,3.0,Metal,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Rajada,ECO,110V,25.0,5.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,Plus,220V,22.0,3.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,Britânia,ECO,220V,40.0,5.0,Plástico,Mesa,3.0,60W
+Fresnomaq Indústria,Arno,Plus,220V,41.0,5.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,VOM,Turbo,220V,28.0,4.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Rajada,Turbo,110V,44.0,3.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,VOM,Turbo,220V,21.0,4.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,Plus,220V,23.0,4.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,Rajada,Turbo,110V,23.0,3.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Rajada,Turbo,110V,48.0,5.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Arno,Plus,110V,22.0,4.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,ECO,220V,42.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,VOM,ECO,110V,43.0,5.0,Plástico,Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,Plus,220V,45.0,5.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Rajada,ECO,220V,35.0,3.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,Turbo,220V,50.0,4.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,Rajada,Plus,110V,35.0,4.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Arno,ECO,220V,42.0,5.0,Metal,Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,Turbo,220V,42.0,5.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,Britânia,ECO,110V,28.0,3.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Britânia,Plus,220V,39.0,4.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Rajada,Turbo,220V,26.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,VOM,ECO,220V,49.0,5.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,VOM,Plus,110V,20.0,4.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,VOM,Plus,220V,34.0,3.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,Britânia,Turbo,110V,21.0,3.0,Metal,Parede e Mesa,5.0,100W
+Ventisol Indústria,Rajada,Turbo,110V,32.0,4.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Arno,Plus,220V,39.0,5.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Arno,ECO,220V,47.0,3.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,Plus,110V,29.0,3.0,Plástico,Mesa,3.0,100W
+Fresnomaq Indústria,Britânia,ECO,110V,49.0,5.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,VOM,Plus,220V,33.0,5.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,Rajada,Turbo,110V,24.0,5.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Arno,Plus,110V,26.0,5.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,VOM,Turbo,110V,30.0,3.0,Metal,Mesa,5.0,100W
+Fresnomaq Indústria,Arno,Turbo,220V,49.0,4.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Arno,Turbo,110V,44.0,5.0,Metal,Parede e Mesa,3.0,100W
+Ventisol Indústria,Rajada,Plus,220V,31.0,5.0,Metal,Parede e Mesa,5.0,100W
+Ventisol Indústria,VOM,Plus,110V,26.0,3.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,ECO,110V,29.0,3.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Arno,Plus,220V,37.0,5.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,ECO,220V,45.0,5.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,VOM,ECO,220V,41.0,4.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,Turbo,110V,48.0,4.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,Turbo,220V,28.0,4.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,VOM,Plus,110V,43.0,3.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,Rajada,Turbo,110V,50.0,3.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,Plus,110V,38.0,3.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Rajada,Turbo,110V,38.0,4.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Arno,Turbo,110V,41.0,4.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Arno,ECO,110V,36.0,5.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Rajada,ECO,110V,48.0,4.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,Arno,ECO,110V,30.0,3.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,VOM,Turbo,220V,21.0,4.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Rajada,Plus,220V,26.0,3.0,Metal,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Rajada,Plus,110V,48.0,5.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,VOM,ECO,220V,40.0,4.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,VOM,Plus,220V,31.0,4.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,ECO,110V,27.0,3.0,Plástico,Mesa,3.0,60W
+Fresnomaq Indústria,Britânia,Turbo,110V,40.0,5.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Arno,Turbo,220V,46.0,3.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,Rajada,Plus,220V,40.0,3.0,Metal,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,VOM,ECO,110V,22.0,4.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Britânia,Turbo,110V,31.0,3.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Rajada,ECO,220V,31.0,3.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,Arno,ECO,220V,42.0,3.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Arno,ECO,110V,31.0,5.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Turbo,220V,48.0,4.0,Plástico,Mesa,3.0,80W
+Fresnomaq Indústria,VOM,Plus,220V,35.0,4.0,Metal,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,Plus,220V,27.0,5.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Turbo,220V,38.0,5.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Britânia,ECO,110V,26.0,4.0,Plástico,Mesa,5.0,80W
+Ventisol Indústria,Arno,Turbo,110V,44.0,4.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Arno,ECO,220V,49.0,5.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,Arno,Turbo,220V,40.0,3.0,Metal,Parede e Mesa,5.0,100W
+Ventisol Indústria,Britânia,ECO,110V,35.0,3.0,Metal,Parede e Mesa,3.0,100W
+Ventisol Indústria,Rajada,Turbo,110V,25.0,5.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Rajada,Turbo,220V,30.0,4.0,Metal,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Arno,Turbo,220V,29.0,4.0,Metal,Parede e Mesa,3.0,100W
+Ventisol Indústria,Arno,Plus,110V,30.0,5.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Britânia,Turbo,220V,30.0,3.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,VOM,ECO,220V,41.0,3.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,VOM,Plus,220V,49.0,4.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Rajada,Turbo,110V,28.0,4.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,VOM,Plus,220V,31.0,3.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,Arno,Turbo,110V,21.0,5.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Britânia,Turbo,110V,35.0,5.0,Metal,Parede e Mesa,5.0,100W
+Ventisol Indústria,Arno,Turbo,110V,46.0,3.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,Plus,220V,45.0,4.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,Arno,Turbo,220V,39.0,4.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,Rajada,Plus,220V,47.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,VOM,Turbo,220V,31.0,4.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Britânia,Plus,220V,35.0,4.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,Arno,ECO,220V,32.0,4.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,VOM,Plus,220V,49.0,5.0,Metal,Mesa,3.0,100W
+Fresnomaq Indústria,VOM,Turbo,220V,42.0,4.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,VOM,Plus,220V,23.0,3.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,VOM,Plus,220V,31.0,5.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,Rajada,ECO,110V,24.0,3.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,VOM,Turbo,110V,24.0,5.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,VOM,Plus,110V,42.0,4.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Arno,Turbo,220V,26.0,5.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,ECO,220V,50.0,3.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Rajada,Turbo,110V,38.0,5.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,VOM,ECO,110V,33.0,3.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Britânia,ECO,220V,34.0,5.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,VOM,Turbo,220V,30.0,3.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,Rajada,Turbo,220V,34.0,4.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Arno,Plus,110V,45.0,3.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Rajada,ECO,220V,33.0,4.0,Plástico,Mesa,3.0,100W
+Fresnomaq Indústria,Britânia,Plus,110V,27.0,4.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,VOM,ECO,220V,26.0,4.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Turbo,220V,45.0,5.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,VOM,ECO,220V,39.0,4.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Arno,ECO,220V,38.0,3.0,Metal,Parede e Mesa,5.0,100W
+Ventisol Indústria,Britânia,Plus,220V,27.0,5.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Turbo,110V,49.0,4.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Rajada,Turbo,110V,29.0,5.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,VOM,Plus,110V,41.0,4.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Britânia,Plus,220V,35.0,5.0,Plástico,Mesa,3.0,100W
+Fresnomaq Indústria,VOM,ECO,220V,26.0,5.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,ECO,220V,49.0,3.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Plus,110V,45.0,3.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,Arno,ECO,110V,35.0,5.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,Britânia,Plus,220V,35.0,3.0,Metal,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,VOM,Plus,220V,41.0,4.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,Arno,Turbo,110V,40.0,5.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,Britânia,ECO,220V,28.0,3.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,Arno,ECO,110V,41.0,5.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,Rajada,Plus,220V,46.0,3.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Arno,ECO,110V,40.0,4.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,Arno,ECO,220V,32.0,3.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Arno,ECO,220V,41.0,5.0,Plástico,Mesa,3.0,60W
+Fresnomaq Indústria,VOM,ECO,110V,23.0,4.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,Britânia,Plus,110V,38.0,4.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Arno,Turbo,220V,34.0,4.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,VOM,ECO,220V,43.0,4.0,Metal,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,ECO,110V,29.0,3.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,VOM,Turbo,220V,42.0,3.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,Britânia,Turbo,220V,27.0,5.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,Arno,Turbo,220V,36.0,4.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,VOM,ECO,110V,35.0,3.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,Arno,Plus,220V,39.0,4.0,Metal,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,VOM,Turbo,110V,39.0,5.0,Metal,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,Plus,220V,26.0,5.0,Plástico,Mesa,3.0,80W
+Fresnomaq Indústria,VOM,Turbo,110V,35.0,5.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Britânia,ECO,220V,38.0,5.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,Arno,ECO,220V,44.0,3.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,Arno,Plus,110V,27.0,3.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Arno,Plus,220V,23.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,VOM,Plus,110V,47.0,4.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,VOM,Plus,110V,27.0,4.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,Rajada,Plus,110V,28.0,4.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,Arno,ECO,220V,42.0,3.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Britânia,Turbo,220V,36.0,5.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Rajada,Turbo,220V,37.0,4.0,Metal,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,ECO,220V,24.0,5.0,Metal,Parede e Mesa,3.0,100W
+Ventisol Indústria,VOM,Turbo,220V,45.0,5.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Arno,ECO,220V,33.0,5.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Britânia,Plus,110V,48.0,3.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Rajada,ECO,110V,31.0,4.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Rajada,Plus,220V,39.0,3.0,Metal,Parede e Mesa,3.0,100W
+Ventisol Indústria,VOM,Turbo,220V,22.0,3.0,Plástico,Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,ECO,220V,33.0,4.0,Plástico,Mesa,3.0,60W
+Fresnomaq Indústria,Arno,Turbo,220V,30.0,3.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Rajada,Plus,220V,33.0,4.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,VOM,Turbo,220V,37.0,3.0,Plástico,Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,Plus,220V,24.0,5.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Rajada,ECO,110V,44.0,4.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,Britânia,Plus,220V,32.0,4.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,Britânia,ECO,110V,50.0,5.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,Rajada,ECO,220V,29.0,5.0,Metal,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Rajada,Plus,220V,49.0,5.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Rajada,Plus,220V,46.0,3.0,Plástico,Mesa,3.0,60W
+Ventisol Indústria,Britânia,Turbo,220V,41.0,3.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,Britânia,Turbo,110V,47.0,5.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,Arno,Turbo,220V,46.0,4.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Arno,ECO,110V,36.0,5.0,Metal,Mesa,5.0,80W
+Ventisol Indústria,Arno,Turbo,220V,32.0,4.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,VOM,Turbo,110V,31.0,3.0,Plástico,Mesa,3.0,80W
+Fresnomaq Indústria,VOM,Turbo,220V,20.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Britânia,Turbo,220V,49.0,5.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,Rajada,ECO,220V,20.0,3.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Plus,110V,30.0,4.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,VOM,Plus,220V,23.0,4.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,VOM,Turbo,220V,34.0,5.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,Plus,220V,24.0,4.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,Turbo,110V,50.0,5.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Rajada,Plus,110V,46.0,3.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,Turbo,110V,46.0,5.0,Metal,Parede e Mesa,3.0,100W
+Ventisol Indústria,Arno,Turbo,220V,20.0,3.0,Metal,Parede e Mesa,3.0,100W
+Ventisol Indústria,Britânia,ECO,220V,26.0,3.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,VOM,ECO,220V,30.0,3.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,Plus,220V,50.0,4.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Britânia,ECO,220V,35.0,3.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,Arno,ECO,110V,22.0,4.0,Plástico,Mesa,3.0,60W
+Ventisol Indústria,Britânia,ECO,110V,31.0,4.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,VOM,Turbo,110V,28.0,4.0,Metal,Parede e Mesa,5.0,100W
+Ventisol Indústria,Rajada,Plus,110V,22.0,3.0,Metal,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Rajada,Turbo,110V,23.0,5.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,VOM,Plus,110V,27.0,4.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Turbo,110V,38.0,5.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,Plus,110V,22.0,3.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Britânia,Turbo,110V,34.0,4.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Britânia,Turbo,220V,41.0,5.0,Plástico,Mesa,3.0,60W
+Ventisol Indústria,Britânia,Turbo,110V,46.0,3.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Arno,Plus,220V,30.0,4.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Britânia,Turbo,110V,30.0,5.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,Britânia,ECO,110V,23.0,5.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Britânia,Turbo,110V,35.0,4.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,Arno,Plus,110V,23.0,3.0,Metal,Mesa,3.0,100W
+Ventisol Indústria,Rajada,Plus,110V,49.0,3.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Arno,Plus,220V,34.0,4.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,Arno,ECO,110V,50.0,5.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,Arno,Turbo,110V,31.0,5.0,Plástico,Mesa,3.0,60W
+Ventisol Indústria,VOM,Turbo,220V,40.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,VOM,ECO,110V,25.0,4.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,Arno,ECO,110V,49.0,5.0,Plástico,Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,Turbo,220V,31.0,3.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Arno,ECO,220V,20.0,5.0,Plástico,Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,Turbo,220V,46.0,4.0,Plástico,Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,Plus,110V,42.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,ECO,110V,30.0,4.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,Plus,110V,28.0,4.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,VOM,Plus,110V,31.0,3.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Turbo,220V,31.0,4.0,Plástico,Mesa,5.0,80W
+Ventisol Indústria,Britânia,ECO,220V,47.0,5.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,Arno,Plus,110V,40.0,5.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,Arno,ECO,220V,41.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,VOM,Turbo,110V,46.0,4.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,Rajada,Turbo,110V,44.0,4.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,Arno,ECO,220V,32.0,3.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,Rajada,Plus,220V,22.0,3.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,ECO,110V,22.0,3.0,Plástico,Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,Plus,220V,35.0,5.0,Metal,Mesa,5.0,100W
+Fresnomaq Indústria,Arno,Turbo,110V,25.0,4.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Britânia,Turbo,110V,32.0,5.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Rajada,Plus,220V,27.0,5.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Britânia,Plus,110V,46.0,3.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Turbo,220V,49.0,5.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,VOM,ECO,220V,22.0,5.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,Rajada,Plus,110V,44.0,3.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Rajada,ECO,110V,47.0,4.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,ECO,220V,43.0,4.0,Metal,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Britânia,Turbo,110V,48.0,5.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,Rajada,Turbo,220V,49.0,4.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Turbo,110V,35.0,5.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Rajada,Turbo,220V,33.0,5.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Rajada,Turbo,110V,44.0,4.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,VOM,Turbo,110V,24.0,3.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Britânia,ECO,220V,46.0,3.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Rajada,ECO,220V,43.0,5.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,ECO,220V,37.0,3.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,Plus,220V,33.0,4.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,Arno,Plus,110V,46.0,3.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,Rajada,Plus,110V,23.0,5.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,ECO,110V,35.0,3.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,VOM,Plus,110V,49.0,5.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,Rajada,ECO,110V,49.0,5.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,VOM,Turbo,220V,42.0,5.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,Britânia,ECO,220V,25.0,3.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,Turbo,110V,40.0,5.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Britânia,Plus,220V,21.0,3.0,Plástico,Parede e Mesa,5.0,60W
+Fresnomaq Indústria,VOM,Turbo,110V,30.0,3.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,Arno,Turbo,110V,49.0,3.0,Metal,Parede e Mesa,3.0,60W
+Fresnomaq Indústria,Arno,ECO,110V,33.0,3.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,VOM,Plus,220V,41.0,3.0,Plástico,Mesa,5.0,80W
+Ventisol Indústria,Britânia,Turbo,110V,45.0,5.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Britânia,Turbo,220V,26.0,4.0,Metal,Mesa,5.0,100W
+Fresnomaq Indústria,VOM,ECO,220V,37.0,3.0,Metal,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Rajada,Plus,220V,44.0,3.0,Metal,Parede e Mesa,5.0,100W
+Ventisol Indústria,Arno,Turbo,110V,34.0,4.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,Britânia,ECO,220V,41.0,3.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,Arno,ECO,220V,30.0,3.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,ECO,110V,44.0,3.0,Plástico,Parede e Mesa,5.0,60W
+Ventisol Indústria,Arno,ECO,220V,31.0,5.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Arno,Plus,220V,45.0,3.0,Plástico,Mesa,5.0,80W
+Ventisol Indústria,VOM,ECO,220V,32.0,3.0,Plástico,Mesa,5.0,100W
+Fresnomaq Indústria,VOM,Turbo,220V,47.0,3.0,Plástico,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Arno,ECO,110V,27.0,5.0,Plástico,Mesa,3.0,80W
+Fresnomaq Indústria,Rajada,ECO,220V,47.0,5.0,Metal,Mesa,3.0,60W
+Fresnomaq Indústria,VOM,ECO,220V,47.0,5.0,Metal,Mesa,5.0,80W
+Fresnomaq Indústria,Rajada,Plus,220V,25.0,4.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Arno,ECO,110V,39.0,3.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Arno,Plus,110V,45.0,5.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,Rajada,ECO,220V,25.0,4.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,Britânia,Turbo,220V,33.0,5.0,Metal,Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,Turbo,110V,43.0,4.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,VOM,Plus,220V,47.0,5.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,Britânia,Plus,220V,25.0,5.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Rajada,ECO,220V,24.0,5.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Rajada,ECO,110V,22.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Rajada,Turbo,220V,31.0,5.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,Plus,110V,47.0,4.0,Metal,Mesa,3.0,100W
+Fresnomaq Indústria,Britânia,Plus,220V,35.0,4.0,Plástico,Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,Plus,220V,33.0,5.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Britânia,Turbo,220V,44.0,5.0,Metal,Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,ECO,110V,35.0,5.0,Plástico,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,Arno,ECO,220V,32.0,5.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,Rajada,ECO,110V,41.0,3.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,Britânia,ECO,110V,24.0,4.0,Plástico,Mesa,3.0,100W
+Ventisol Indústria,Britânia,Plus,110V,50.0,3.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,VOM,Turbo,110V,35.0,3.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Arno,Turbo,110V,29.0,3.0,Plástico,Parede e Mesa,3.0,100W
+Ventisol Indústria,Arno,Turbo,220V,24.0,3.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,VOM,ECO,220V,41.0,3.0,Plástico,Mesa,3.0,80W
+Ventisol Indústria,Rajada,ECO,110V,33.0,4.0,Metal,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,Britânia,Turbo,110V,40.0,3.0,Plástico,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Britânia,Plus,110V,24.0,4.0,Metal,Parede e Mesa,3.0,100W
+Ventisol Indústria,Britânia,ECO,110V,23.0,5.0,Metal,Parede e Mesa,3.0,80W
+Ventisol Indústria,Rajada,ECO,220V,42.0,3.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,Turbo,220V,38.0,3.0,Plástico,Parede e Mesa,5.0,80W
+Ventisol Indústria,Arno,ECO,110V,22.0,5.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Rajada,ECO,110V,30.0,3.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,VOM,Turbo,110V,47.0,5.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Arno,Turbo,110V,42.0,3.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Arno,ECO,110V,26.0,4.0,Plástico,Mesa,5.0,80W
+Ventisol Indústria,Arno,ECO,220V,37.0,5.0,Plástico,Parede e Mesa,5.0,100W
+Ventisol Indústria,Britânia,Plus,220V,28.0,4.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Arno,Plus,220V,23.0,4.0,Plástico,Mesa,3.0,100W
+Fresnomaq Indústria,Britânia,Turbo,110V,49.0,5.0,Metal,Parede e Mesa,3.0,100W
+Fresnomaq Indústria,VOM,Plus,220V,45.0,5.0,Metal,Parede e Mesa,5.0,100W
+Ventisol Indústria,Rajada,Plus,220V,49.0,5.0,Metal,Mesa,5.0,60W
+Fresnomaq Indústria,Rajada,ECO,220V,38.0,5.0,Metal,Mesa,3.0,60W
+Ventisol Indústria,Arno,Turbo,220V,25.0,5.0,Metal,Parede e Mesa,5.0,100W
+Fresnomaq Indústria,Rajada,Plus,110V,25.0,4.0,Metal,Parede e Mesa,3.0,60W
+Ventisol Indústria,Britânia,Turbo,220V,29.0,5.0,Plástico,Mesa,3.0,80W
+Fresnomaq Indústria,Britânia,ECO,110V,40.0,5.0,Plástico,Mesa,3.0,60W
+Ventisol Indústria,Britânia,Turbo,220V,20.0,4.0,Metal,Parede e Mesa,5.0,80W
+Ventisol Indústria,VOM,Turbo,220V,36.0,3.0,Metal,Parede e Mesa,5.0,60W
+Ventisol Indústria,Arno,ECO,110V,49.0,5.0,Metal,Mesa,3.0,60W
+Ventisol Indústria,Britânia,ECO,110V,24.0,5.0,Metal,Mesa,3.0,60W
+Ventisol Indústria,Britânia,Plus,110V,34.0,3.0,Plástico,Mesa,3.0,60W
+Ventisol Indústria,Rajada,Plus,110V,28.0,5.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Rajada,ECO,110V,27.0,5.0,Metal,Parede e Mesa,3.0,100W
+Ventisol Indústria,VOM,Plus,220V,48.0,5.0,Metal,Mesa,5.0,100W
+Ventisol Indústria,VOM,Turbo,220V,29.0,5.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,Arno,Turbo,110V,44.0,4.0,Metal,Parede e Mesa,5.0,80W
+Fresnomaq Indústria,VOM,ECO,110V,42.0,3.0,Plástico,Parede e Mesa,3.0,60W
+Ventisol Indústria,Arno,ECO,110V,31.0,5.0,Metal,Mesa,3.0,80W
+Fresnomaq Indústria,Rajada,Turbo,110V,30.0,5.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,Britânia,Plus,110V,33.0,5.0,Metal,Mesa,5.0,60W
+Ventisol Indústria,Rajada,Plus,220V,48.0,4.0,Plástico,Mesa,5.0,60W
+Ventisol Indústria,Rajada,Turbo,220V,50.0,3.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,Rajada,ECO,220V,28.0,4.0,Plástico,Parede e Mesa,3.0,80W
+Ventisol Indústria,Rajada,ECO,220V,36.0,4.0,Plástico,Parede e Mesa,3.0,80W
+Fresnomaq Indústria,Arno,Turbo,220V,40.0,5.0,Metal,Mesa,3.0,80W
+Ventisol Indústria,Rajada,ECO,110V,22.0,5.0,Plástico,Mesa,5.0,100W
+Ventisol Indústria,Britânia,Turbo,220V,32.0,5.0,Metal,Mesa,5.0,80W

@@ -1,0 +1,1051 @@
+fornecedor,marca,modelo,voltagem,diametro_helice_cm,numero_pás,material_helice,controle_velocidade,numero_velocidades,potencia_alta,potencia_media,potencia_baixa
+SPIRIT,SPIRIT,Sky,220,110,3,Plástico,Controle Remoto,3,90,60,30
+VENTISOL,VENTISOL,Eco Turbo,127,120,4,Metal,Controle Remoto,3,85,55,25
+TRON,TRON,Wind Power,220,130,3,Metal,Manual,3,95,65,35
+HUNTER FAN,HUNTER,Ocean Breeze,220,100,5,Plástico,Controle Remoto,5,80,50,20
+NEWTECH,NEWTECH,Power Max,127,115,3,Metal,Manual,3,88,58,28
+SPIRIT,SPIRIT,Sky,220,115,3,Plástico,Manual,3,85,55,25
+NEWTECH,HUNTER,Wind Power,220,130,3,Plástico,Controle Remoto,5,88,50,25
+HUNTER FAN,SPIRIT,Sky,220,130,3,Plástico,Controle Remoto,5,85,50,25
+HUNTER FAN,TRON,Eco Turbo,127,115,4,Metal,Controle Remoto,5,85,50,30
+TRON,HUNTER,Sky,127,130,5,Metal,Controle Remoto,3,90,55,30
+SPIRIT,VENTISOL,Power Max,220,110,3,Metal,Manual,3,88,50,20
+NEWTECH,NEWTECH,Eco Turbo,220,120,3,Plástico,Manual,5,80,58,25
+NEWTECH,VENTISOL,Wind Power,127,120,4,Metal,Manual,5,95,50,30
+VENTISOL,VENTISOL,Eco Turbo,127,115,5,Metal,Manual,5,90,55,25
+TRON,VENTISOL,Wind Power,127,110,5,Plástico,Controle Remoto,5,80,60,28
+HUNTER FAN,HUNTER,Eco Turbo,220,110,4,Plástico,Manual,3,88,58,25
+VENTISOL,NEWTECH,Wind Power,127,115,5,Plástico,Manual,5,95,50,28
+VENTISOL,TRON,Ocean Breeze,127,120,3,Plástico,Manual,3,88,65,25
+SPIRIT,VENTISOL,Sky,127,130,3,Plástico,Manual,5,95,55,35
+HUNTER FAN,VENTISOL,Eco Turbo,220,110,3,Plástico,Manual,5,90,55,30
+TRON,TRON,Sky,220,110,4,Plástico,Manual,3,80,50,35
+VENTISOL,SPIRIT,Sky,220,100,3,Plástico,Manual,5,90,60,20
+NEWTECH,NEWTECH,Power Max,127,130,3,Metal,Manual,3,80,55,35
+TRON,VENTISOL,Sky,220,100,5,Metal,Controle Remoto,5,85,50,28
+TRON,SPIRIT,Ocean Breeze,220,110,3,Plástico,Controle Remoto,5,88,65,25
+TRON,NEWTECH,Wind Power,127,130,3,Metal,Manual,5,88,50,28
+SPIRIT,VENTISOL,Sky,220,110,4,Plástico,Manual,5,90,60,28
+VENTISOL,NEWTECH,Ocean Breeze,127,100,4,Plástico,Controle Remoto,3,80,58,30
+NEWTECH,NEWTECH,Power Max,220,110,5,Metal,Controle Remoto,5,80,65,20
+SPIRIT,VENTISOL,Wind Power,220,120,3,Plástico,Manual,5,90,55,35
+TRON,SPIRIT,Eco Turbo,127,130,3,Metal,Controle Remoto,3,88,50,30
+HUNTER FAN,VENTISOL,Power Max,220,110,3,Plástico,Controle Remoto,5,90,50,28
+TRON,NEWTECH,Wind Power,220,110,3,Metal,Controle Remoto,5,95,60,28
+TRON,HUNTER,Ocean Breeze,220,110,3,Plástico,Controle Remoto,3,80,65,30
+VENTISOL,TRON,Ocean Breeze,127,115,5,Plástico,Manual,3,85,60,25
+HUNTER FAN,TRON,Eco Turbo,220,115,5,Plástico,Controle Remoto,5,90,50,28
+TRON,HUNTER,Power Max,220,120,5,Metal,Controle Remoto,5,80,60,20
+HUNTER FAN,NEWTECH,Eco Turbo,220,120,3,Metal,Manual,5,90,60,25
+SPIRIT,VENTISOL,Sky,127,110,5,Plástico,Manual,3,95,55,28
+NEWTECH,TRON,Eco Turbo,220,120,4,Plástico,Controle Remoto,3,88,50,20
+VENTISOL,HUNTER,Power Max,220,130,4,Metal,Controle Remoto,5,88,60,28
+SPIRIT,NEWTECH,Sky,127,130,4,Plástico,Manual,5,80,60,20
+TRON,TRON,Eco Turbo,220,120,5,Plástico,Manual,5,88,50,25
+VENTISOL,HUNTER,Eco Turbo,127,100,5,Plástico,Controle Remoto,3,88,50,28
+VENTISOL,TRON,Eco Turbo,220,130,3,Plástico,Manual,5,80,58,28
+HUNTER FAN,NEWTECH,Wind Power,127,100,4,Metal,Manual,5,80,50,30
+TRON,TRON,Wind Power,127,100,5,Metal,Controle Remoto,3,88,55,20
+HUNTER FAN,TRON,Wind Power,220,120,4,Plástico,Manual,3,85,50,20
+VENTISOL,TRON,Power Max,127,115,5,Plástico,Manual,3,80,55,25
+NEWTECH,SPIRIT,Sky,220,110,4,Plástico,Controle Remoto,3,95,50,35
+SPIRIT,VENTISOL,Ocean Breeze,220V,113,5,Metal,Manual,5,84,50,25
+VENTISOL,HUNTER,Wind Power,127V,86,4,Metal,Controle Remoto,5,92,55,27
+VENTISOL,TRON,Power Max,220V,134,3,Plástico,Manual,5,87,52,26
+VENTISOL,HUNTER,Wind Power,220V,90,3,Plástico,Manual,5,94,56,28
+HUNTER FAN,HUNTER,Power Max,127V,91,4,Plástico,Controle Remoto,3,99,59,29
+VENTISOL,SPIRIT,Eco Turbo,127V,130,5,Metal,Controle Remoto,3,89,53,26
+HUNTER FAN,VENTISOL,Eco Turbo,127V,135,3,Metal,Manual,3,89,53,26
+HUNTER FAN,TRON,Wind Power,127V,123,5,Metal,Manual,5,95,57,28
+SPIRIT,VENTISOL,Sky,127V,99,5,Metal,Manual,3,89,53,26
+VENTISOL,VENTISOL,Ocean Breeze,127V,125,3,Plástico,Controle Remoto,3,92,55,27
+SPIRIT,SPIRIT,Wind Power,220V,140,3,Plástico,Controle Remoto,5,80,48,24
+HUNTER FAN,SPIRIT,Ocean Breeze,127V,87,4,Plástico,Manual,5,97,58,29
+TRON,HUNTER,Eco Turbo,220V,122,4,Plástico,Manual,5,93,55,27
+SPIRIT,SPIRIT,Power Max,127V,135,3,Metal,Manual,5,81,48,24
+VENTISOL,HUNTER,Eco Turbo,127V,134,4,Plástico,Manual,5,96,57,28
+TRON,TRON,Power Max,220V,105,3,Metal,Manual,3,86,51,25
+VENTISOL,SPIRIT,Wind Power,220V,90,3,Plástico,Controle Remoto,5,96,57,28
+HUNTER FAN,VENTISOL,Wind Power,220V,137,5,Plástico,Manual,5,83,49,24
+VENTISOL,SPIRIT,Wind Power,220V,131,4,Plástico,Manual,5,85,51,25
+SPIRIT,VENTISOL,Sky,127V,81,4,Plástico,Controle Remoto,3,99,59,29
+SPIRIT,SPIRIT,Power Max,127V,94,5,Metal,Controle Remoto,3,88,52,26
+SPIRIT,SPIRIT,Wind Power,127V,149,5,Plástico,Controle Remoto,3,81,48,24
+VENTISOL,VENTISOL,Sky,127V,136,5,Plástico,Manual,3,96,57,28
+VENTISOL,TRON,Power Max,127V,97,3,Metal,Controle Remoto,3,82,49,24
+TRON,TRON,Wind Power,127V,92,3,Metal,Controle Remoto,5,96,57,28
+TRON,SPIRIT,Eco Turbo,127V,125,5,Metal,Manual,5,100,60,30
+VENTISOL,SPIRIT,Eco Turbo,127V,99,3,Metal,Manual,3,95,57,28
+TRON,TRON,Eco Turbo,127V,106,3,Metal,Manual,3,87,52,26
+SPIRIT,HUNTER,Eco Turbo,127V,102,3,Metal,Manual,3,90,54,27
+SPIRIT,SPIRIT,Sky,220V,139,3,Metal,Controle Remoto,3,99,59,29
+HUNTER FAN,HUNTER,Wind Power,220V,92,5,Metal,Manual,5,96,57,28
+TRON,TRON,Eco Turbo,127V,144,5,Plástico,Controle Remoto,5,100,60,30
+TRON,HUNTER,Power Max,220V,150,4,Plástico,Controle Remoto,5,85,51,25
+SPIRIT,SPIRIT,Ocean Breeze,127V,130,4,Plástico,Manual,3,85,51,25
+HUNTER FAN,SPIRIT,Wind Power,220V,146,4,Plástico,Controle Remoto,5,96,57,28
+HUNTER FAN,VENTISOL,Eco Turbo,127V,112,3,Plástico,Controle Remoto,5,91,54,27
+VENTISOL,TRON,Eco Turbo,127V,113,3,Metal,Manual,5,100,60,30
+HUNTER FAN,HUNTER,Eco Turbo,127V,81,4,Plástico,Controle Remoto,3,87,52,26
+HUNTER FAN,HUNTER,Sky,220V,146,3,Plástico,Manual,3,90,54,27
+VENTISOL,VENTISOL,Wind Power,127V,146,5,Plástico,Controle Remoto,5,83,49,24
+SPIRIT,SPIRIT,Wind Power,127V,93,5,Plástico,Manual,5,83,49,24
+TRON,VENTISOL,Wind Power,127V,109,3,Metal,Manual,3,84,50,25
+VENTISOL,SPIRIT,Eco Turbo,127V,87,5,Metal,Controle Remoto,3,99,59,29
+VENTISOL,SPIRIT,Sky,220V,110,5,Metal,Controle Remoto,5,92,55,27
+VENTISOL,VENTISOL,Ocean Breeze,220V,140,4,Metal,Controle Remoto,3,99,59,29
+SPIRIT,VENTISOL,Ocean Breeze,127V,144,4,Metal,Controle Remoto,3,94,56,28
+TRON,VENTISOL,Wind Power,127V,97,5,Plástico,Controle Remoto,3,82,49,24
+SPIRIT,SPIRIT,Wind Power,220V,149,5,Metal,Controle Remoto,5,93,55,27
+VENTISOL,SPIRIT,Eco Turbo,220V,105,5,Metal,Manual,3,92,55,27
+HUNTER FAN,HUNTER,Sky,127V,139,3,Metal,Manual,3,89,53,26
+TRON,SPIRIT,Sky,127V,120,4,Plástico,Manual,5,80,48,24
+VENTISOL,VENTISOL,Power Max,127V,87,4,Metal,Controle Remoto,5,96,57,28
+TRON,TRON,Eco Turbo,127V,130,5,Metal,Controle Remoto,3,80,48,24
+TRON,SPIRIT,Wind Power,127V,130,4,Plástico,Manual,3,95,57,28
+TRON,HUNTER,Ocean Breeze,220V,133,5,Plástico,Manual,3,86,51,25
+TRON,VENTISOL,Ocean Breeze,127V,83,5,Metal,Manual,3,91,54,27
+TRON,SPIRIT,Sky,127V,150,5,Metal,Controle Remoto,3,85,51,25
+VENTISOL,HUNTER,Eco Turbo,220V,111,5,Metal,Manual,3,81,48,24
+TRON,VENTISOL,Sky,127V,119,4,Metal,Manual,5,85,51,25
+TRON,HUNTER,Power Max,220V,101,3,Plástico,Controle Remoto,5,88,52,26
+TRON,SPIRIT,Ocean Breeze,127V,142,4,Metal,Manual,5,80,48,24
+TRON,SPIRIT,Ocean Breeze,220V,82,5,Metal,Controle Remoto,5,80,48,24
+SPIRIT,SPIRIT,Ocean Breeze,127V,135,3,Plástico,Controle Remoto,3,85,51,25
+HUNTER FAN,HUNTER,Ocean Breeze,127V,104,5,Plástico,Controle Remoto,5,97,58,29
+TRON,TRON,Eco Turbo,220V,84,3,Metal,Controle Remoto,3,94,56,28
+TRON,HUNTER,Ocean Breeze,220V,88,3,Metal,Manual,5,99,59,29
+VENTISOL,HUNTER,Wind Power,220V,106,4,Metal,Manual,5,96,57,28
+HUNTER FAN,TRON,Eco Turbo,220V,100,5,Metal,Manual,5,89,53,26
+TRON,TRON,Ocean Breeze,220V,135,4,Metal,Manual,3,96,57,28
+SPIRIT,VENTISOL,Sky,127V,145,3,Metal,Manual,3,80,48,24
+TRON,VENTISOL,Eco Turbo,127V,107,3,Metal,Controle Remoto,5,98,58,29
+HUNTER FAN,HUNTER,Ocean Breeze,127V,80,5,Plástico,Manual,3,80,48,24
+HUNTER FAN,SPIRIT,Power Max,220V,112,3,Plástico,Manual,5,94,56,28
+VENTISOL,SPIRIT,Ocean Breeze,220V,141,4,Metal,Manual,3,82,49,24
+HUNTER FAN,HUNTER,Eco Turbo,220V,103,3,Plástico,Controle Remoto,5,83,49,24
+HUNTER FAN,VENTISOL,Wind Power,220V,113,5,Plástico,Manual,3,91,54,27
+SPIRIT,HUNTER,Ocean Breeze,220V,88,4,Plástico,Manual,5,80,48,24
+SPIRIT,HUNTER,Eco Turbo,220V,110,5,Metal,Manual,3,81,48,24
+VENTISOL,VENTISOL,Sky,220V,134,3,Plástico,Controle Remoto,3,91,54,27
+VENTISOL,SPIRIT,Wind Power,127V,145,4,Plástico,Manual,5,96,57,28
+HUNTER FAN,TRON,Eco Turbo,220V,132,3,Metal,Manual,5,96,57,28
+HUNTER FAN,TRON,Eco Turbo,220V,148,5,Plástico,Controle Remoto,3,98,58,29
+HUNTER FAN,VENTISOL,Sky,127V,133,4,Metal,Controle Remoto,3,91,54,27
+TRON,HUNTER,Ocean Breeze,127V,135,5,Metal,Controle Remoto,3,96,57,28
+TRON,HUNTER,Power Max,127V,85,4,Plástico,Controle Remoto,5,94,56,28
+HUNTER FAN,VENTISOL,Sky,220V,119,4,Plástico,Controle Remoto,5,80,48,24
+VENTISOL,VENTISOL,Wind Power,220V,103,5,Metal,Manual,5,91,54,27
+HUNTER FAN,TRON,Wind Power,127V,131,4,Metal,Manual,3,92,55,27
+VENTISOL,HUNTER,Sky,220V,90,4,Plástico,Controle Remoto,5,88,52,26
+VENTISOL,SPIRIT,Ocean Breeze,220V,107,5,Metal,Controle Remoto,3,87,52,26
+HUNTER FAN,HUNTER,Sky,220V,136,3,Plástico,Controle Remoto,5,96,57,28
+HUNTER FAN,SPIRIT,Power Max,127V,144,3,Metal,Controle Remoto,3,98,58,29
+SPIRIT,TRON,Ocean Breeze,220V,126,3,Plástico,Controle Remoto,5,87,52,26
+HUNTER FAN,TRON,Eco Turbo,220V,106,3,Metal,Manual,5,88,52,26
+SPIRIT,VENTISOL,Ocean Breeze,220V,116,3,Metal,Controle Remoto,5,81,48,24
+VENTISOL,SPIRIT,Wind Power,127V,89,5,Metal,Controle Remoto,3,89,53,26
+TRON,VENTISOL,Wind Power,127V,92,5,Plástico,Manual,5,98,58,29
+SPIRIT,HUNTER,Power Max,127V,81,4,Metal,Manual,5,83,49,24
+TRON,SPIRIT,Eco Turbo,220V,142,3,Metal,Manual,3,81,48,24
+VENTISOL,HUNTER,Sky,127V,136,4,Plástico,Manual,5,91,54,27
+TRON,VENTISOL,Sky,220V,137,4,Metal,Controle Remoto,3,95,57,28
+SPIRIT,TRON,Sky,220V,139,3,Plástico,Manual,3,97,58,29
+HUNTER FAN,HUNTER,Power Max,220V,121,5,Metal,Manual,5,88,52,26
+HUNTER FAN,TRON,Sky,127V,144,4,Metal,Manual,3,91,54,27
+SPIRIT,HUNTER,Sky,127V,126,4,Metal,Manual,3,89,53,26
+VENTISOL,TRON,Power Max,127V,123,3,Metal,Controle Remoto,3,100,60,30
+TRON,SPIRIT,Eco Turbo,127V,111,4,Plástico,Manual,3,91,54,27
+VENTISOL,TRON,Power Max,127V,97,4,Plástico,Controle Remoto,3,84,50,25
+HUNTER FAN,SPIRIT,Ocean Breeze,220V,128,4,Plástico,Controle Remoto,3,89,53,26
+HUNTER FAN,HUNTER,Sky,127V,121,3,Plástico,Controle Remoto,3,82,49,24
+VENTISOL,SPIRIT,Power Max,220V,100,3,Plástico,Controle Remoto,5,97,58,29
+SPIRIT,VENTISOL,Power Max,220V,122,3,Plástico,Manual,3,98,58,29
+TRON,SPIRIT,Sky,127V,116,4,Metal,Controle Remoto,5,93,55,27
+VENTISOL,HUNTER,Eco Turbo,127V,123,3,Plástico,Controle Remoto,3,98,58,29
+VENTISOL,SPIRIT,Ocean Breeze,220V,131,4,Metal,Manual,3,98,58,29
+TRON,TRON,Ocean Breeze,127V,130,4,Plástico,Manual,5,98,58,29
+HUNTER FAN,VENTISOL,Wind Power,220V,98,4,Plástico,Controle Remoto,3,86,51,25
+SPIRIT,VENTISOL,Power Max,220V,120,4,Plástico,Controle Remoto,3,81,48,24
+TRON,HUNTER,Eco Turbo,127V,142,3,Metal,Controle Remoto,5,82,49,24
+SPIRIT,SPIRIT,Wind Power,127V,145,3,Plástico,Manual,3,99,59,29
+SPIRIT,HUNTER,Sky,220V,144,4,Plástico,Controle Remoto,5,95,57,28
+VENTISOL,VENTISOL,Sky,220V,122,4,Plástico,Controle Remoto,5,92,55,27
+HUNTER FAN,HUNTER,Wind Power,220V,105,5,Plástico,Controle Remoto,5,97,58,29
+HUNTER FAN,VENTISOL,Eco Turbo,220V,117,5,Metal,Controle Remoto,5,82,49,24
+VENTISOL,TRON,Sky,127V,121,5,Plástico,Controle Remoto,5,80,48,24
+SPIRIT,SPIRIT,Eco Turbo,220V,112,3,Plástico,Controle Remoto,3,89,53,26
+HUNTER FAN,SPIRIT,Ocean Breeze,127V,133,4,Plástico,Manual,5,87,52,26
+SPIRIT,TRON,Ocean Breeze,127V,131,3,Plástico,Controle Remoto,3,98,58,29
+HUNTER FAN,VENTISOL,Wind Power,220V,100,3,Metal,Manual,5,85,51,25
+SPIRIT,SPIRIT,Eco Turbo,220V,125,3,Plástico,Controle Remoto,5,83,49,24
+HUNTER FAN,SPIRIT,Eco Turbo,127V,149,5,Metal,Manual,5,94,56,28
+SPIRIT,TRON,Power Max,220V,84,3,Plástico,Controle Remoto,5,88,52,26
+TRON,TRON,Wind Power,220V,133,3,Plástico,Controle Remoto,5,91,54,27
+HUNTER FAN,SPIRIT,Power Max,127V,145,4,Plástico,Controle Remoto,3,87,52,26
+HUNTER FAN,VENTISOL,Wind Power,127V,150,4,Metal,Controle Remoto,5,95,57,28
+VENTISOL,SPIRIT,Eco Turbo,127V,83,5,Metal,Controle Remoto,5,89,53,26
+SPIRIT,VENTISOL,Power Max,220V,88,4,Plástico,Manual,5,89,53,26
+SPIRIT,SPIRIT,Sky,127V,97,3,Plástico,Controle Remoto,5,88,52,26
+SPIRIT,HUNTER,Ocean Breeze,127V,131,4,Plástico,Manual,5,87,52,26
+VENTISOL,VENTISOL,Wind Power,127V,80,4,Plástico,Controle Remoto,3,83,49,24
+TRON,VENTISOL,Ocean Breeze,220V,123,3,Plástico,Manual,3,83,49,24
+SPIRIT,SPIRIT,Wind Power,220V,107,5,Plástico,Manual,3,87,52,26
+VENTISOL,VENTISOL,Power Max,127V,90,3,Metal,Manual,3,83,49,24
+TRON,TRON,Wind Power,220V,106,3,Metal,Controle Remoto,5,99,59,29
+VENTISOL,HUNTER,Sky,220V,105,5,Plástico,Manual,3,91,54,27
+VENTISOL,SPIRIT,Sky,220V,128,4,Metal,Manual,5,85,51,25
+HUNTER FAN,TRON,Eco Turbo,220V,104,5,Plástico,Controle Remoto,3,80,48,24
+VENTISOL,VENTISOL,Sky,220V,121,3,Plástico,Manual,3,91,54,27
+TRON,TRON,Power Max,220V,107,5,Plástico,Manual,3,93,55,27
+VENTISOL,HUNTER,Wind Power,220V,138,3,Plástico,Controle Remoto,3,99,59,29
+HUNTER FAN,SPIRIT,Eco Turbo,127V,134,3,Metal,Controle Remoto,5,88,52,26
+TRON,HUNTER,Ocean Breeze,127V,96,3,Metal,Controle Remoto,5,100,60,30
+TRON,SPIRIT,Wind Power,220V,122,4,Plástico,Manual,3,83,49,24
+HUNTER FAN,TRON,Ocean Breeze,127V,111,5,Metal,Manual,5,98,58,29
+SPIRIT,HUNTER,Wind Power,220V,131,5,Plástico,Manual,3,99,59,29
+TRON,HUNTER,Sky,220V,88,4,Plástico,Controle Remoto,5,87,52,26
+HUNTER FAN,TRON,Ocean Breeze,127V,85,5,Metal,Manual,5,83,49,24
+VENTISOL,VENTISOL,Sky,127V,111,5,Plástico,Manual,3,94,56,28
+VENTISOL,VENTISOL,Sky,127V,135,4,Metal,Controle Remoto,3,88,52,26
+SPIRIT,HUNTER,Eco Turbo,220V,130,4,Metal,Controle Remoto,5,89,53,26
+SPIRIT,HUNTER,Ocean Breeze,127V,80,4,Plástico,Controle Remoto,5,94,56,28
+HUNTER FAN,VENTISOL,Sky,220V,138,5,Metal,Controle Remoto,3,97,58,29
+SPIRIT,SPIRIT,Power Max,220V,142,4,Plástico,Controle Remoto,3,89,53,26
+HUNTER FAN,TRON,Eco Turbo,127V,136,4,Metal,Manual,3,80,48,24
+TRON,TRON,Power Max,127V,109,5,Metal,Manual,3,87,52,26
+HUNTER FAN,SPIRIT,Sky,220V,144,4,Plástico,Controle Remoto,5,98,58,29
+HUNTER FAN,VENTISOL,Ocean Breeze,127V,129,4,Plástico,Manual,3,80,48,24
+VENTISOL,HUNTER,Power Max,127V,108,4,Plástico,Controle Remoto,5,89,53,26
+HUNTER FAN,SPIRIT,Eco Turbo,220V,143,3,Plástico,Controle Remoto,3,91,54,27
+TRON,SPIRIT,Power Max,220V,107,3,Metal,Manual,3,81,48,24
+VENTISOL,HUNTER,Power Max,127V,118,4,Metal,Controle Remoto,5,84,50,25
+HUNTER FAN,VENTISOL,Ocean Breeze,220V,99,3,Plástico,Controle Remoto,3,90,54,27
+TRON,HUNTER,Eco Turbo,220V,95,4,Metal,Controle Remoto,5,80,48,24
+SPIRIT,TRON,Eco Turbo,220V,98,4,Metal,Controle Remoto,5,96,57,28
+TRON,VENTISOL,Ocean Breeze,127V,82,3,Metal,Controle Remoto,5,88,52,26
+HUNTER FAN,SPIRIT,Wind Power,127V,127,4,Metal,Manual,3,94,56,28
+TRON,VENTISOL,Eco Turbo,220V,116,5,Plástico,Manual,3,97,58,29
+TRON,VENTISOL,Wind Power,220V,128,5,Metal,Manual,3,96,57,28
+HUNTER FAN,HUNTER,Wind Power,220V,141,3,Plástico,Controle Remoto,3,93,55,27
+TRON,HUNTER,Power Max,127V,108,5,Metal,Manual,3,98,58,29
+HUNTER FAN,SPIRIT,Ocean Breeze,220V,141,5,Plástico,Controle Remoto,3,84,50,25
+VENTISOL,HUNTER,Ocean Breeze,127V,86,5,Metal,Manual,3,84,50,25
+SPIRIT,SPIRIT,Sky,127V,86,3,Metal,Controle Remoto,3,84,50,25
+VENTISOL,HUNTER,Eco Turbo,220V,110,5,Plástico,Manual,5,87,52,26
+HUNTER FAN,HUNTER,Eco Turbo,127V,87,3,Metal,Controle Remoto,5,96,57,28
+HUNTER FAN,VENTISOL,Sky,127V,129,3,Plástico,Manual,5,94,56,28
+SPIRIT,TRON,Power Max,220V,121,3,Plástico,Manual,5,85,51,25
+VENTISOL,HUNTER,Power Max,127V,106,4,Metal,Controle Remoto,3,90,54,27
+HUNTER FAN,VENTISOL,Eco Turbo,220V,101,4,Metal,Manual,3,94,56,28
+HUNTER FAN,VENTISOL,Ocean Breeze,127V,87,5,Plástico,Controle Remoto,3,97,58,29
+SPIRIT,SPIRIT,Ocean Breeze,127V,118,5,Plástico,Controle Remoto,5,80,48,24
+HUNTER FAN,TRON,Power Max,127V,147,3,Plástico,Manual,5,91,54,27
+SPIRIT,VENTISOL,Wind Power,220V,91,5,Plástico,Manual,5,87,52,26
+SPIRIT,VENTISOL,Power Max,127V,131,3,Plástico,Controle Remoto,3,85,51,25
+HUNTER FAN,VENTISOL,Power Max,127V,140,5,Metal,Manual,5,90,54,27
+SPIRIT,HUNTER,Sky,127V,121,5,Plástico,Controle Remoto,3,93,55,27
+HUNTER FAN,HUNTER,Ocean Breeze,220V,97,3,Metal,Manual,5,81,48,24
+TRON,HUNTER,Sky,220V,83,5,Plástico,Manual,3,80,48,24
+HUNTER FAN,HUNTER,Sky,220V,119,4,Metal,Controle Remoto,3,92,55,27
+SPIRIT,VENTISOL,Sky,127V,139,5,Metal,Controle Remoto,3,96,57,28
+TRON,HUNTER,Eco Turbo,127V,109,5,Plástico,Manual,5,89,53,26
+HUNTER FAN,TRON,Sky,220V,150,3,Metal,Manual,5,98,58,29
+HUNTER FAN,VENTISOL,Power Max,220V,140,3,Metal,Manual,5,88,52,26
+VENTISOL,HUNTER,Eco Turbo,127V,110,5,Metal,Manual,3,91,54,27
+VENTISOL,HUNTER,Wind Power,127V,130,4,Plástico,Manual,3,92,55,27
+HUNTER FAN,TRON,Eco Turbo,127V,109,4,Metal,Controle Remoto,3,90,54,27
+TRON,HUNTER,Power Max,220V,107,3,Metal,Controle Remoto,5,90,54,27
+SPIRIT,TRON,Ocean Breeze,220V,132,4,Metal,Manual,5,84,50,25
+TRON,VENTISOL,Power Max,220V,139,3,Plástico,Controle Remoto,3,98,58,29
+TRON,VENTISOL,Eco Turbo,220V,88,5,Plástico,Manual,3,100,60,30
+HUNTER FAN,SPIRIT,Wind Power,220V,123,5,Plástico,Manual,3,91,54,27
+SPIRIT,HUNTER,Power Max,127V,126,3,Plástico,Manual,3,82,49,24
+VENTISOL,VENTISOL,Sky,220V,132,3,Metal,Controle Remoto,3,85,51,25
+HUNTER FAN,SPIRIT,Wind Power,220V,116,4,Metal,Controle Remoto,3,84,50,25
+TRON,HUNTER,Eco Turbo,127V,91,4,Metal,Manual,5,89,53,26
+VENTISOL,TRON,Eco Turbo,220V,86,3,Metal,Manual,5,97,58,29
+SPIRIT,VENTISOL,Power Max,127V,134,4,Plástico,Manual,5,90,54,27
+TRON,VENTISOL,Wind Power,220V,143,4,Metal,Manual,5,83,49,24
+HUNTER FAN,SPIRIT,Sky,220V,121,4,Plástico,Controle Remoto,3,97,58,29
+HUNTER FAN,SPIRIT,Ocean Breeze,220V,132,5,Plástico,Controle Remoto,5,89,53,26
+SPIRIT,VENTISOL,Power Max,127V,142,4,Plástico,Manual,5,93,55,27
+TRON,HUNTER,Sky,220V,142,3,Plástico,Manual,5,85,51,25
+HUNTER FAN,VENTISOL,Wind Power,127V,109,5,Plástico,Manual,3,91,54,27
+HUNTER FAN,SPIRIT,Wind Power,127V,93,4,Plástico,Manual,3,87,52,26
+TRON,TRON,Sky,220V,98,3,Plástico,Controle Remoto,5,80,48,24
+HUNTER FAN,HUNTER,Ocean Breeze,127V,101,5,Plástico,Manual,5,96,57,28
+HUNTER FAN,TRON,Wind Power,127V,97,5,Metal,Manual,5,85,51,25
+VENTISOL,SPIRIT,Wind Power,127V,90,5,Metal,Controle Remoto,5,88,52,26
+VENTISOL,VENTISOL,Eco Turbo,127V,144,4,Metal,Controle Remoto,3,96,57,28
+TRON,VENTISOL,Eco Turbo,220V,90,3,Metal,Manual,5,93,55,27
+SPIRIT,VENTISOL,Eco Turbo,220V,88,3,Metal,Controle Remoto,3,99,59,29
+TRON,TRON,Sky,127V,119,3,Plástico,Controle Remoto,5,91,54,27
+TRON,VENTISOL,Eco Turbo,220V,141,4,Metal,Controle Remoto,5,87,52,26
+SPIRIT,SPIRIT,Eco Turbo,127V,80,5,Plástico,Controle Remoto,5,86,51,25
+TRON,HUNTER,Power Max,220V,95,3,Metal,Manual,5,100,60,30
+TRON,HUNTER,Wind Power,220V,99,5,Metal,Controle Remoto,3,97,58,29
+SPIRIT,VENTISOL,Wind Power,127V,147,3,Plástico,Controle Remoto,5,89,53,26
+VENTISOL,TRON,Power Max,220V,104,5,Plástico,Controle Remoto,5,90,54,27
+TRON,VENTISOL,Eco Turbo,220V,137,5,Metal,Manual,3,85,51,25
+VENTISOL,TRON,Eco Turbo,127V,134,5,Plástico,Controle Remoto,3,89,53,26
+TRON,TRON,Sky,220V,116,4,Plástico,Controle Remoto,5,92,55,27
+VENTISOL,TRON,Eco Turbo,127V,146,3,Metal,Manual,5,97,58,29
+TRON,TRON,Power Max,220V,140,4,Plástico,Manual,5,86,51,25
+VENTISOL,TRON,Wind Power,127V,113,3,Metal,Controle Remoto,5,86,51,25
+TRON,TRON,Power Max,127V,139,4,Plástico,Manual,5,89,53,26
+TRON,HUNTER,Ocean Breeze,127V,141,5,Plástico,Manual,5,95,57,28
+TRON,SPIRIT,Power Max,127V,120,5,Plástico,Manual,5,92,55,27
+HUNTER FAN,SPIRIT,Wind Power,127V,149,5,Metal,Controle Remoto,3,92,55,27
+VENTISOL,TRON,Power Max,220V,144,5,Metal,Manual,5,80,48,24
+TRON,VENTISOL,Power Max,127V,92,4,Plástico,Manual,3,99,59,29
+SPIRIT,SPIRIT,Ocean Breeze,220V,103,4,Plástico,Controle Remoto,3,84,50,25
+VENTISOL,SPIRIT,Wind Power,220V,135,3,Plástico,Controle Remoto,5,90,54,27
+SPIRIT,SPIRIT,Wind Power,220V,90,5,Metal,Controle Remoto,3,86,51,25
+TRON,VENTISOL,Ocean Breeze,127V,91,5,Plástico,Controle Remoto,3,86,51,25
+TRON,SPIRIT,Sky,220V,107,5,Metal,Manual,3,84,50,25
+SPIRIT,SPIRIT,Power Max,220V,80,4,Plástico,Manual,3,92,55,27
+TRON,HUNTER,Sky,220V,110,4,Plástico,Controle Remoto,5,91,54,27
+VENTISOL,HUNTER,Power Max,220V,116,5,Metal,Manual,5,92,55,27
+SPIRIT,VENTISOL,Sky,127V,124,4,Metal,Controle Remoto,5,96,57,28
+SPIRIT,TRON,Sky,220V,99,4,Plástico,Controle Remoto,5,92,55,27
+HUNTER FAN,SPIRIT,Wind Power,127V,89,5,Plástico,Manual,3,91,54,27
+TRON,VENTISOL,Eco Turbo,220V,143,4,Metal,Manual,3,94,56,28
+TRON,SPIRIT,Ocean Breeze,220V,92,4,Metal,Manual,5,93,55,27
+SPIRIT,HUNTER,Eco Turbo,127V,117,4,Metal,Manual,3,86,51,25
+HUNTER FAN,HUNTER,Sky,220V,127,5,Metal,Manual,3,96,57,28
+VENTISOL,TRON,Power Max,220V,121,3,Plástico,Manual,3,86,51,25
+VENTISOL,VENTISOL,Eco Turbo,127V,113,3,Metal,Manual,5,88,52,26
+VENTISOL,SPIRIT,Ocean Breeze,127V,125,3,Metal,Manual,3,87,52,26
+SPIRIT,HUNTER,Ocean Breeze,220V,97,4,Metal,Controle Remoto,5,88,52,26
+SPIRIT,SPIRIT,Power Max,220V,119,4,Metal,Manual,3,90,54,27
+TRON,SPIRIT,Power Max,127V,93,3,Plástico,Manual,3,95,57,28
+VENTISOL,SPIRIT,Ocean Breeze,220V,118,4,Plástico,Manual,5,82,49,24
+HUNTER FAN,SPIRIT,Wind Power,127V,80,5,Plástico,Manual,5,94,56,28
+TRON,HUNTER,Power Max,127V,101,3,Metal,Controle Remoto,3,99,59,29
+TRON,SPIRIT,Ocean Breeze,127V,80,4,Plástico,Manual,3,87,52,26
+VENTISOL,SPIRIT,Eco Turbo,127V,98,5,Metal,Manual,5,83,49,24
+VENTISOL,SPIRIT,Wind Power,127V,131,4,Metal,Controle Remoto,3,100,60,30
+HUNTER FAN,TRON,Eco Turbo,220V,96,4,Plástico,Controle Remoto,3,98,58,29
+SPIRIT,SPIRIT,Power Max,127V,139,3,Plástico,Controle Remoto,5,84,50,25
+TRON,SPIRIT,Power Max,127V,111,4,Plástico,Manual,3,97,58,29
+SPIRIT,TRON,Sky,220V,133,5,Plástico,Manual,5,93,55,27
+VENTISOL,HUNTER,Power Max,220V,114,4,Plástico,Controle Remoto,3,87,52,26
+HUNTER FAN,TRON,Sky,127V,119,4,Plástico,Controle Remoto,5,90,54,27
+TRON,VENTISOL,Power Max,127V,80,3,Metal,Controle Remoto,5,82,49,24
+VENTISOL,HUNTER,Wind Power,127V,121,4,Metal,Manual,5,85,51,25
+HUNTER FAN,SPIRIT,Power Max,220V,90,4,Plástico,Manual,3,89,53,26
+HUNTER FAN,TRON,Eco Turbo,127V,87,4,Metal,Controle Remoto,3,93,55,27
+HUNTER FAN,VENTISOL,Ocean Breeze,220V,88,5,Metal,Manual,3,82,49,24
+HUNTER FAN,SPIRIT,Wind Power,127V,149,5,Metal,Manual,3,91,54,27
+TRON,HUNTER,Eco Turbo,220V,149,3,Metal,Manual,3,80,48,24
+HUNTER FAN,SPIRIT,Power Max,127V,139,3,Metal,Controle Remoto,5,99,59,29
+SPIRIT,HUNTER,Eco Turbo,127V,100,4,Plástico,Controle Remoto,5,82,49,24
+HUNTER FAN,HUNTER,Sky,220V,117,5,Metal,Controle Remoto,5,92,55,27
+HUNTER FAN,VENTISOL,Sky,220V,125,4,Plástico,Manual,3,100,60,30
+TRON,VENTISOL,Sky,220V,80,4,Metal,Manual,5,86,51,25
+HUNTER FAN,VENTISOL,Ocean Breeze,220V,146,4,Plástico,Controle Remoto,3,93,55,27
+HUNTER FAN,HUNTER,Power Max,127V,132,3,Metal,Controle Remoto,3,90,54,27
+HUNTER FAN,VENTISOL,Ocean Breeze,220V,104,3,Plástico,Manual,5,80,48,24
+SPIRIT,SPIRIT,Ocean Breeze,220V,119,3,Metal,Controle Remoto,3,88,52,26
+HUNTER FAN,SPIRIT,Wind Power,127V,132,3,Metal,Controle Remoto,3,83,49,24
+TRON,VENTISOL,Eco Turbo,220V,120,3,Plástico,Controle Remoto,5,82,49,24
+TRON,HUNTER,Wind Power,127V,117,5,Plástico,Manual,3,80,48,24
+TRON,SPIRIT,Ocean Breeze,220V,117,4,Metal,Manual,5,93,55,27
+HUNTER FAN,SPIRIT,Wind Power,220V,111,5,Metal,Manual,3,83,49,24
+VENTISOL,HUNTER,Wind Power,127V,86,4,Plástico,Controle Remoto,5,96,57,28
+HUNTER FAN,SPIRIT,Wind Power,220V,103,5,Metal,Manual,3,87,52,26
+VENTISOL,VENTISOL,Ocean Breeze,127V,110,5,Plástico,Controle Remoto,3,84,50,25
+HUNTER FAN,TRON,Sky,220V,87,4,Metal,Controle Remoto,5,85,51,25
+TRON,HUNTER,Power Max,127V,122,4,Plástico,Manual,3,93,55,27
+HUNTER FAN,VENTISOL,Ocean Breeze,127V,150,5,Plástico,Manual,5,88,52,26
+VENTISOL,HUNTER,Eco Turbo,127V,115,4,Plástico,Controle Remoto,3,87,52,26
+HUNTER FAN,TRON,Sky,127V,105,3,Plástico,Controle Remoto,5,99,59,29
+SPIRIT,TRON,Sky,220V,147,4,Plástico,Controle Remoto,5,85,51,25
+HUNTER FAN,TRON,Sky,220V,133,3,Plástico,Manual,3,92,55,27
+VENTISOL,TRON,Wind Power,127V,128,5,Metal,Controle Remoto,3,97,58,29
+VENTISOL,HUNTER,Sky,127V,137,3,Plástico,Manual,5,88,52,26
+TRON,TRON,Ocean Breeze,220V,113,4,Metal,Controle Remoto,5,85,51,25
+HUNTER FAN,SPIRIT,Sky,127V,136,5,Plástico,Controle Remoto,3,88,52,26
+SPIRIT,SPIRIT,Sky,220V,103,5,Metal,Controle Remoto,3,89,53,26
+SPIRIT,VENTISOL,Wind Power,127V,111,5,Plástico,Controle Remoto,5,87,52,26
+TRON,SPIRIT,Wind Power,220V,131,3,Metal,Manual,3,91,54,27
+HUNTER FAN,VENTISOL,Eco Turbo,220V,99,4,Plástico,Controle Remoto,3,89,53,26
+TRON,VENTISOL,Ocean Breeze,127V,81,4,Metal,Manual,5,89,53,26
+HUNTER FAN,TRON,Eco Turbo,127V,104,3,Plástico,Manual,3,91,54,27
+VENTISOL,HUNTER,Power Max,220V,90,3,Metal,Controle Remoto,5,89,53,26
+TRON,VENTISOL,Wind Power,220V,90,4,Plástico,Controle Remoto,3,99,59,29
+HUNTER FAN,TRON,Power Max,220V,83,5,Metal,Controle Remoto,3,82,49,24
+SPIRIT,VENTISOL,Eco Turbo,127V,98,3,Metal,Manual,3,99,59,29
+SPIRIT,VENTISOL,Eco Turbo,220V,96,4,Metal,Manual,3,91,54,27
+TRON,VENTISOL,Eco Turbo,220V,87,3,Plástico,Manual,5,86,51,25
+SPIRIT,HUNTER,Power Max,127V,144,4,Metal,Controle Remoto,5,81,48,24
+HUNTER FAN,VENTISOL,Sky,127V,81,4,Metal,Manual,3,92,55,27
+SPIRIT,TRON,Power Max,220V,111,5,Metal,Controle Remoto,3,83,49,24
+HUNTER FAN,HUNTER,Power Max,127V,124,4,Plástico,Manual,5,100,60,30
+SPIRIT,TRON,Sky,127V,147,3,Plástico,Controle Remoto,3,85,51,25
+SPIRIT,VENTISOL,Ocean Breeze,220V,85,4,Metal,Manual,3,100,60,30
+HUNTER FAN,SPIRIT,Sky,127V,107,3,Metal,Manual,5,98,58,29
+TRON,VENTISOL,Sky,127V,100,5,Plástico,Controle Remoto,3,80,48,24
+TRON,VENTISOL,Sky,127V,82,4,Plástico,Manual,3,92,55,27
+SPIRIT,TRON,Sky,220V,81,5,Metal,Manual,3,90,54,27
+SPIRIT,TRON,Power Max,127V,83,5,Plástico,Manual,3,93,55,27
+HUNTER FAN,HUNTER,Sky,220V,109,4,Plástico,Controle Remoto,5,86,51,25
+VENTISOL,HUNTER,Sky,127V,106,3,Metal,Manual,5,88,52,26
+HUNTER FAN,VENTISOL,Sky,220V,119,4,Metal,Controle Remoto,3,86,51,25
+VENTISOL,TRON,Power Max,220V,127,3,Metal,Controle Remoto,3,97,58,29
+SPIRIT,TRON,Wind Power,220V,91,5,Metal,Manual,5,93,55,27
+TRON,SPIRIT,Eco Turbo,127V,95,4,Plástico,Manual,3,94,56,28
+HUNTER FAN,SPIRIT,Power Max,127V,92,4,Plástico,Manual,3,80,48,24
+TRON,TRON,Eco Turbo,127V,126,4,Metal,Manual,3,96,57,28
+VENTISOL,VENTISOL,Ocean Breeze,127V,98,5,Metal,Controle Remoto,5,89,53,26
+HUNTER FAN,HUNTER,Power Max,127V,115,3,Plástico,Manual,3,90,54,27
+HUNTER FAN,TRON,Ocean Breeze,220V,126,3,Metal,Controle Remoto,3,84,50,25
+TRON,HUNTER,Ocean Breeze,127V,138,3,Plástico,Controle Remoto,5,80,48,24
+SPIRIT,HUNTER,Power Max,127V,106,4,Plástico,Controle Remoto,5,84,50,25
+VENTISOL,VENTISOL,Wind Power,220V,140,3,Metal,Manual,5,88,52,26
+TRON,HUNTER,Ocean Breeze,127V,97,3,Metal,Manual,3,99,59,29
+SPIRIT,HUNTER,Eco Turbo,127V,117,4,Plástico,Manual,3,97,58,29
+TRON,VENTISOL,Wind Power,127V,90,3,Metal,Manual,3,88,52,26
+HUNTER FAN,TRON,Sky,127V,105,3,Metal,Manual,3,95,57,28
+TRON,VENTISOL,Sky,220V,102,5,Plástico,Manual,5,81,48,24
+TRON,TRON,Eco Turbo,220V,111,5,Plástico,Controle Remoto,5,80,48,24
+SPIRIT,VENTISOL,Wind Power,220V,136,5,Metal,Controle Remoto,3,87,52,26
+HUNTER FAN,VENTISOL,Ocean Breeze,220V,100,3,Metal,Manual,5,81,48,24
+HUNTER FAN,SPIRIT,Ocean Breeze,127V,83,4,Metal,Manual,5,93,55,27
+TRON,TRON,Ocean Breeze,220V,88,3,Plástico,Manual,3,98,58,29
+TRON,HUNTER,Power Max,220V,93,3,Metal,Controle Remoto,5,95,57,28
+TRON,HUNTER,Power Max,127V,142,3,Metal,Controle Remoto,5,93,55,27
+SPIRIT,VENTISOL,Power Max,220V,88,4,Plástico,Manual,3,86,51,25
+VENTISOL,VENTISOL,Sky,220V,144,3,Plástico,Controle Remoto,5,100,60,30
+TRON,TRON,Power Max,220V,150,3,Metal,Controle Remoto,5,82,49,24
+HUNTER FAN,TRON,Wind Power,127V,148,3,Plástico,Controle Remoto,3,91,54,27
+HUNTER FAN,VENTISOL,Eco Turbo,127V,104,4,Plástico,Controle Remoto,5,94,56,28
+HUNTER FAN,VENTISOL,Ocean Breeze,220V,87,3,Plástico,Manual,3,89,53,26
+VENTISOL,VENTISOL,Eco Turbo,127V,124,5,Metal,Manual,3,87,52,26
+SPIRIT,SPIRIT,Eco Turbo,220V,93,5,Plástico,Controle Remoto,5,94,56,28
+HUNTER FAN,VENTISOL,Power Max,127V,126,3,Plástico,Manual,3,81,48,24
+TRON,VENTISOL,Ocean Breeze,127V,99,4,Metal,Manual,3,95,57,28
+HUNTER FAN,VENTISOL,Sky,220V,93,5,Plástico,Manual,5,81,48,24
+TRON,HUNTER,Power Max,127V,120,3,Metal,Controle Remoto,3,91,54,27
+HUNTER FAN,VENTISOL,Power Max,220V,93,3,Metal,Manual,3,87,52,26
+TRON,TRON,Power Max,220V,93,3,Metal,Manual,3,91,54,27
+VENTISOL,VENTISOL,Sky,220V,104,5,Plástico,Controle Remoto,5,100,60,30
+VENTISOL,VENTISOL,Sky,220V,94,3,Plástico,Manual,5,90,54,27
+VENTISOL,TRON,Wind Power,127V,143,4,Metal,Controle Remoto,3,80,48,24
+HUNTER FAN,HUNTER,Power Max,127V,95,3,Plástico,Controle Remoto,3,90,54,27
+TRON,VENTISOL,Wind Power,127V,80,4,Plástico,Manual,5,98,58,29
+SPIRIT,TRON,Ocean Breeze,220V,90,3,Metal,Controle Remoto,3,86,51,25
+HUNTER FAN,SPIRIT,Wind Power,220V,119,5,Plástico,Manual,5,95,57,28
+SPIRIT,TRON,Eco Turbo,127V,109,5,Plástico,Controle Remoto,3,95,57,28
+SPIRIT,HUNTER,Power Max,127V,102,5,Metal,Manual,3,80,48,24
+VENTISOL,SPIRIT,Sky,127V,101,4,Plástico,Manual,3,93,55,27
+SPIRIT,HUNTER,Eco Turbo,220V,109,5,Metal,Controle Remoto,5,94,56,28
+VENTISOL,HUNTER,Ocean Breeze,220V,137,5,Plástico,Manual,5,83,49,24
+SPIRIT,SPIRIT,Wind Power,127V,133,3,Plástico,Manual,5,80,48,24
+SPIRIT,VENTISOL,Ocean Breeze,220V,113,3,Plástico,Controle Remoto,5,93,55,27
+TRON,TRON,Ocean Breeze,127V,148,5,Metal,Manual,3,88,52,26
+SPIRIT,TRON,Power Max,220V,99,3,Plástico,Manual,5,98,58,29
+HUNTER FAN,SPIRIT,Wind Power,220V,135,5,Plástico,Controle Remoto,3,92,55,27
+HUNTER FAN,VENTISOL,Power Max,127V,129,5,Metal,Manual,5,86,51,25
+VENTISOL,HUNTER,Wind Power,127V,83,4,Plástico,Manual,3,98,58,29
+TRON,HUNTER,Eco Turbo,127V,82,4,Plástico,Controle Remoto,3,93,55,27
+VENTISOL,TRON,Power Max,127V,89,5,Plástico,Controle Remoto,3,83,49,24
+HUNTER FAN,TRON,Sky,127V,84,3,Metal,Controle Remoto,5,82,49,24
+HUNTER FAN,SPIRIT,Eco Turbo,127V,80,3,Metal,Manual,5,88,52,26
+VENTISOL,HUNTER,Power Max,220V,116,3,Plástico,Controle Remoto,5,98,58,29
+VENTISOL,SPIRIT,Power Max,127V,100,4,Plástico,Manual,3,93,55,27
+HUNTER FAN,HUNTER,Eco Turbo,127V,103,5,Metal,Controle Remoto,5,95,57,28
+SPIRIT,HUNTER,Ocean Breeze,127V,111,5,Plástico,Controle Remoto,3,86,51,25
+SPIRIT,HUNTER,Wind Power,220V,112,4,Metal,Controle Remoto,3,96,57,28
+HUNTER FAN,SPIRIT,Eco Turbo,220V,125,5,Metal,Manual,5,87,52,26
+SPIRIT,HUNTER,Sky,127V,143,4,Metal,Manual,5,99,59,29
+TRON,VENTISOL,Ocean Breeze,127V,81,3,Plástico,Manual,3,88,52,26
+HUNTER FAN,TRON,Power Max,220V,93,5,Plástico,Controle Remoto,5,88,52,26
+SPIRIT,SPIRIT,Wind Power,220V,93,4,Metal,Controle Remoto,5,88,52,26
+SPIRIT,VENTISOL,Eco Turbo,127V,133,4,Plástico,Manual,3,86,51,25
+TRON,SPIRIT,Ocean Breeze,220V,93,4,Plástico,Manual,3,80,48,24
+TRON,SPIRIT,Eco Turbo,220V,84,4,Plástico,Controle Remoto,5,93,55,27
+VENTISOL,VENTISOL,Ocean Breeze,220V,132,4,Metal,Controle Remoto,3,98,58,29
+HUNTER FAN,VENTISOL,Sky,127V,135,4,Plástico,Manual,3,83,49,24
+TRON,TRON,Sky,220V,115,4,Plástico,Controle Remoto,5,86,51,25
+TRON,SPIRIT,Eco Turbo,220V,109,5,Plástico,Manual,5,89,53,26
+SPIRIT,VENTISOL,Wind Power,127V,133,5,Metal,Manual,3,97,58,29
+SPIRIT,VENTISOL,Ocean Breeze,220V,138,4,Metal,Controle Remoto,3,89,53,26
+VENTISOL,VENTISOL,Power Max,220V,83,4,Plástico,Manual,5,89,53,26
+TRON,VENTISOL,Power Max,127V,144,4,Metal,Manual,5,80,48,24
+HUNTER FAN,HUNTER,Ocean Breeze,127V,136,5,Metal,Manual,3,100,60,30
+SPIRIT,TRON,Power Max,220V,111,4,Plástico,Controle Remoto,3,91,54,27
+SPIRIT,HUNTER,Ocean Breeze,220V,122,3,Metal,Manual,5,94,56,28
+HUNTER FAN,SPIRIT,Ocean Breeze,220V,95,3,Metal,Controle Remoto,3,97,58,29
+SPIRIT,HUNTER,Eco Turbo,127V,104,4,Plástico,Controle Remoto,5,83,49,24
+TRON,SPIRIT,Power Max,220V,83,4,Plástico,Controle Remoto,3,88,52,26
+HUNTER FAN,VENTISOL,Ocean Breeze,220V,137,3,Plástico,Manual,5,84,50,25
+HUNTER FAN,HUNTER,Wind Power,127V,83,3,Plástico,Manual,3,100,60,30
+SPIRIT,TRON,Wind Power,127V,121,5,Metal,Controle Remoto,3,85,51,25
+SPIRIT,HUNTER,Eco Turbo,127V,94,3,Metal,Manual,3,82,49,24
+SPIRIT,SPIRIT,Power Max,127V,127,5,Plástico,Manual,5,94,56,28
+VENTISOL,VENTISOL,Power Max,220V,119,3,Plástico,Controle Remoto,5,81,48,24
+SPIRIT,VENTISOL,Power Max,220V,125,5,Plástico,Manual,3,88,52,26
+VENTISOL,SPIRIT,Ocean Breeze,127V,112,5,Metal,Manual,3,96,57,28
+HUNTER FAN,TRON,Ocean Breeze,127V,92,4,Plástico,Manual,3,95,57,28
+VENTISOL,HUNTER,Power Max,127V,145,4,Metal,Manual,5,97,58,29
+TRON,TRON,Wind Power,220V,148,3,Metal,Controle Remoto,3,81,48,24
+HUNTER FAN,HUNTER,Power Max,220V,104,4,Metal,Manual,5,100,60,30
+TRON,TRON,Power Max,127V,123,4,Metal,Controle Remoto,5,95,57,28
+HUNTER FAN,SPIRIT,Ocean Breeze,220V,86,3,Metal,Manual,5,99,59,29
+TRON,SPIRIT,Eco Turbo,127V,96,4,Metal,Manual,3,96,57,28
+SPIRIT,HUNTER,Eco Turbo,127V,132,5,Plástico,Manual,5,84,50,25
+HUNTER FAN,SPIRIT,Ocean Breeze,127V,125,5,Metal,Manual,3,94,56,28
+HUNTER FAN,SPIRIT,Sky,127V,106,5,Plástico,Controle Remoto,5,99,59,29
+VENTISOL,TRON,Wind Power,127V,140,4,Metal,Controle Remoto,5,97,58,29
+HUNTER FAN,VENTISOL,Sky,127V,98,4,Metal,Controle Remoto,3,86,51,25
+SPIRIT,SPIRIT,Sky,127V,96,5,Plástico,Controle Remoto,5,92,55,27
+SPIRIT,TRON,Wind Power,220V,136,4,Plástico,Controle Remoto,5,94,56,28
+SPIRIT,TRON,Wind Power,127V,81,5,Plástico,Controle Remoto,3,87,52,26
+VENTISOL,SPIRIT,Eco Turbo,127V,90,4,Metal,Manual,5,83,49,24
+HUNTER FAN,HUNTER,Sky,127V,88,3,Metal,Controle Remoto,3,87,52,26
+SPIRIT,HUNTER,Power Max,127V,117,4,Plástico,Manual,3,99,59,29
+SPIRIT,HUNTER,Sky,127V,137,4,Metal,Manual,5,93,55,27
+VENTISOL,HUNTER,Eco Turbo,127V,139,5,Plástico,Manual,5,82,49,24
+TRON,HUNTER,Wind Power,220V,133,3,Metal,Controle Remoto,5,81,48,24
+HUNTER FAN,TRON,Wind Power,220V,120,4,Metal,Controle Remoto,3,96,57,28
+TRON,TRON,Ocean Breeze,127V,104,4,Metal,Controle Remoto,3,82,49,24
+VENTISOL,VENTISOL,Wind Power,127V,140,3,Metal,Controle Remoto,5,85,51,25
+HUNTER FAN,VENTISOL,Sky,127V,99,3,Plástico,Controle Remoto,3,91,54,27
+VENTISOL,TRON,Sky,127V,137,5,Plástico,Controle Remoto,3,91,54,27
+TRON,SPIRIT,Power Max,220V,128,5,Plástico,Controle Remoto,5,95,57,28
+VENTISOL,VENTISOL,Power Max,220V,81,3,Metal,Manual,3,80,48,24
+HUNTER FAN,TRON,Power Max,127V,80,3,Plástico,Controle Remoto,3,90,54,27
+TRON,VENTISOL,Ocean Breeze,220V,97,3,Metal,Controle Remoto,5,88,52,26
+HUNTER FAN,HUNTER,Sky,127V,119,3,Metal,Controle Remoto,5,80,48,24
+TRON,SPIRIT,Ocean Breeze,127V,132,4,Plástico,Manual,5,89,53,26
+TRON,SPIRIT,Wind Power,220V,150,3,Metal,Controle Remoto,5,89,53,26
+VENTISOL,TRON,Eco Turbo,127V,94,5,Metal,Manual,5,83,49,24
+VENTISOL,SPIRIT,Power Max,220V,118,3,Metal,Manual,3,82,49,24
+SPIRIT,HUNTER,Ocean Breeze,220V,112,5,Plástico,Controle Remoto,3,99,59,29
+HUNTER FAN,TRON,Ocean Breeze,127V,105,4,Plástico,Controle Remoto,3,99,59,29
+HUNTER FAN,HUNTER,Power Max,127V,101,4,Metal,Manual,3,92,55,27
+SPIRIT,TRON,Eco Turbo,127V,80,5,Plástico,Manual,3,100,60,30
+TRON,TRON,Wind Power,220V,81,4,Metal,Manual,5,92,55,27
+VENTISOL,SPIRIT,Ocean Breeze,220V,104,5,Metal,Manual,3,87,52,26
+VENTISOL,HUNTER,Wind Power,127V,140,5,Metal,Manual,5,92,55,27
+SPIRIT,HUNTER,Ocean Breeze,127V,80,4,Plástico,Manual,5,86,51,25
+TRON,TRON,Wind Power,127V,135,4,Plástico,Manual,3,90,54,27
+HUNTER FAN,HUNTER,Eco Turbo,220V,132,4,Metal,Manual,5,83,49,24
+SPIRIT,HUNTER,Eco Turbo,127V,120,5,Metal,Controle Remoto,3,94,56,28
+HUNTER FAN,SPIRIT,Wind Power,127V,134,3,Metal,Manual,3,92,55,27
+VENTISOL,HUNTER,Wind Power,220V,92,5,Metal,Controle Remoto,3,86,51,25
+VENTISOL,HUNTER,Wind Power,220V,110,5,Metal,Manual,5,95,57,28
+SPIRIT,TRON,Wind Power,220V,114,4,Plástico,Manual,5,97,58,29
+SPIRIT,TRON,Eco Turbo,127V,129,4,Plástico,Manual,3,81,48,24
+HUNTER FAN,HUNTER,Ocean Breeze,127V,150,5,Plástico,Manual,3,84,50,25
+SPIRIT,VENTISOL,Power Max,220V,85,4,Metal,Manual,5,87,52,26
+TRON,TRON,Power Max,127V,144,4,Plástico,Manual,3,81,48,24
+VENTISOL,VENTISOL,Wind Power,127V,146,3,Plástico,Manual,3,100,60,30
+VENTISOL,SPIRIT,Power Max,127V,83,5,Metal,Controle Remoto,5,94,56,28
+SPIRIT,SPIRIT,Ocean Breeze,220V,106,3,Plástico,Controle Remoto,3,87,52,26
+HUNTER FAN,HUNTER,Power Max,127V,95,4,Plástico,Controle Remoto,3,80,48,24
+TRON,TRON,Wind Power,220V,125,5,Plástico,Manual,3,92,55,27
+VENTISOL,HUNTER,Sky,127V,116,4,Plástico,Controle Remoto,5,80,48,24
+SPIRIT,TRON,Wind Power,127V,148,3,Metal,Controle Remoto,3,99,59,29
+TRON,TRON,Ocean Breeze,127V,82,4,Plástico,Manual,5,95,57,28
+TRON,SPIRIT,Power Max,127V,146,5,Plástico,Controle Remoto,5,80,48,24
+TRON,VENTISOL,Eco Turbo,220V,110,5,Plástico,Controle Remoto,3,95,57,28
+TRON,HUNTER,Ocean Breeze,220V,131,5,Plástico,Controle Remoto,5,94,56,28
+HUNTER FAN,HUNTER,Power Max,127V,80,4,Metal,Controle Remoto,3,85,51,25
+TRON,SPIRIT,Sky,127V,91,5,Plástico,Controle Remoto,5,85,51,25
+SPIRIT,SPIRIT,Eco Turbo,127V,130,3,Plástico,Controle Remoto,3,84,50,25
+VENTISOL,HUNTER,Power Max,220V,107,4,Metal,Controle Remoto,3,100,60,30
+SPIRIT,HUNTER,Sky,127V,80,3,Metal,Controle Remoto,3,89,53,26
+VENTISOL,TRON,Power Max,220V,146,5,Plástico,Manual,3,93,55,27
+TRON,VENTISOL,Ocean Breeze,127V,88,5,Metal,Manual,5,85,51,25
+VENTISOL,VENTISOL,Wind Power,127V,92,4,Plástico,Controle Remoto,3,88,52,26
+TRON,VENTISOL,Eco Turbo,127V,127,4,Plástico,Controle Remoto,3,85,51,25
+TRON,HUNTER,Sky,220V,90,5,Plástico,Manual,5,88,52,26
+SPIRIT,HUNTER,Power Max,127V,138,5,Plástico,Controle Remoto,3,87,52,26
+TRON,TRON,Sky,127V,144,3,Plástico,Manual,5,95,57,28
+HUNTER FAN,SPIRIT,Eco Turbo,127V,128,3,Plástico,Manual,3,88,52,26
+TRON,TRON,Eco Turbo,220V,133,4,Plástico,Manual,5,80,48,24
+TRON,TRON,Sky,127V,83,5,Plástico,Controle Remoto,3,85,51,25
+SPIRIT,HUNTER,Power Max,127V,140,4,Metal,Controle Remoto,3,94,56,28
+TRON,TRON,Ocean Breeze,127V,143,5,Plástico,Manual,5,99,59,29
+HUNTER FAN,TRON,Power Max,220V,131,3,Plástico,Controle Remoto,3,80,48,24
+VENTISOL,SPIRIT,Eco Turbo,220V,144,3,Metal,Controle Remoto,3,100,60,30
+HUNTER FAN,TRON,Eco Turbo,220V,90,3,Plástico,Manual,3,97,58,29
+SPIRIT,SPIRIT,Sky,127V,92,3,Plástico,Controle Remoto,3,90,54,27
+SPIRIT,VENTISOL,Power Max,127V,141,3,Metal,Manual,5,90,54,27
+SPIRIT,VENTISOL,Wind Power,127V,124,4,Metal,Manual,5,96,57,28
+HUNTER FAN,SPIRIT,Sky,220V,106,3,Metal,Manual,3,84,50,25
+TRON,VENTISOL,Wind Power,220V,110,3,Metal,Manual,3,100,60,30
+TRON,SPIRIT,Power Max,127V,129,5,Metal,Manual,3,83,49,24
+HUNTER FAN,TRON,Ocean Breeze,220V,98,4,Metal,Controle Remoto,5,96,57,28
+HUNTER FAN,SPIRIT,Ocean Breeze,127V,143,4,Metal,Controle Remoto,3,82,49,24
+VENTISOL,TRON,Ocean Breeze,220V,104,5,Metal,Controle Remoto,5,98,58,29
+SPIRIT,HUNTER,Eco Turbo,127V,95,4,Plástico,Manual,5,93,55,27
+VENTISOL,HUNTER,Ocean Breeze,127V,95,4,Metal,Manual,3,87,52,26
+TRON,VENTISOL,Ocean Breeze,127V,126,3,Metal,Controle Remoto,5,99,59,29
+TRON,VENTISOL,Ocean Breeze,220V,90,3,Plástico,Controle Remoto,3,99,59,29
+VENTISOL,VENTISOL,Eco Turbo,127V,92,4,Plástico,Manual,5,90,54,27
+VENTISOL,TRON,Eco Turbo,220V,145,5,Metal,Manual,3,86,51,25
+HUNTER FAN,VENTISOL,Eco Turbo,127V,131,4,Plástico,Manual,3,96,57,28
+TRON,HUNTER,Wind Power,127V,111,5,Metal,Controle Remoto,3,95,57,28
+HUNTER FAN,SPIRIT,Eco Turbo,127V,89,3,Plástico,Manual,3,94,56,28
+SPIRIT,HUNTER,Wind Power,220V,87,5,Plástico,Manual,5,95,57,28
+HUNTER FAN,HUNTER,Eco Turbo,220V,128,3,Plástico,Manual,5,82,49,24
+TRON,TRON,Eco Turbo,127V,121,5,Metal,Manual,5,100,60,30
+SPIRIT,TRON,Ocean Breeze,127V,108,4,Plástico,Manual,3,96,57,28
+HUNTER FAN,TRON,Eco Turbo,127V,148,4,Plástico,Controle Remoto,3,90,54,27
+VENTISOL,SPIRIT,Wind Power,127V,99,3,Metal,Controle Remoto,5,91,54,27
+TRON,HUNTER,Power Max,127V,82,3,Metal,Manual,5,99,59,29
+VENTISOL,TRON,Wind Power,220V,103,5,Plástico,Manual,5,92,55,27
+SPIRIT,HUNTER,Ocean Breeze,127V,90,5,Plástico,Controle Remoto,3,93,55,27
+VENTISOL,SPIRIT,Power Max,127V,112,3,Metal,Controle Remoto,3,88,52,26
+HUNTER FAN,HUNTER,Ocean Breeze,127V,130,4,Metal,Controle Remoto,5,81,48,24
+TRON,SPIRIT,Eco Turbo,127V,121,3,Metal,Controle Remoto,3,89,53,26
+VENTISOL,TRON,Power Max,127V,142,3,Metal,Controle Remoto,3,86,51,25
+SPIRIT,VENTISOL,Eco Turbo,220V,103,4,Plástico,Manual,3,97,58,29
+VENTISOL,VENTISOL,Power Max,220V,124,5,Plástico,Manual,5,88,52,26
+VENTISOL,HUNTER,Wind Power,127V,113,4,Plástico,Manual,3,86,51,25
+SPIRIT,VENTISOL,Ocean Breeze,220V,88,3,Plástico,Manual,3,99,59,29
+VENTISOL,SPIRIT,Wind Power,127V,81,5,Metal,Controle Remoto,5,100,60,30
+TRON,SPIRIT,Sky,220V,127,5,Metal,Controle Remoto,3,99,59,29
+SPIRIT,SPIRIT,Power Max,127V,113,3,Metal,Manual,5,87,52,26
+VENTISOL,SPIRIT,Eco Turbo,127V,92,4,Plástico,Manual,3,82,49,24
+HUNTER FAN,TRON,Eco Turbo,220V,85,3,Metal,Manual,3,96,57,28
+HUNTER FAN,VENTISOL,Wind Power,127V,114,3,Metal,Controle Remoto,5,98,58,29
+HUNTER FAN,VENTISOL,Power Max,220V,104,4,Metal,Manual,3,82,49,24
+TRON,VENTISOL,Wind Power,220V,106,5,Plástico,Manual,5,82,49,24
+VENTISOL,HUNTER,Eco Turbo,220V,102,5,Metal,Controle Remoto,5,98,58,29
+HUNTER FAN,VENTISOL,Power Max,220V,126,4,Metal,Controle Remoto,5,86,51,25
+TRON,SPIRIT,Sky,127V,141,4,Plástico,Manual,3,95,57,28
+VENTISOL,VENTISOL,Power Max,220V,96,3,Plástico,Manual,3,94,56,28
+VENTISOL,VENTISOL,Power Max,127V,99,5,Metal,Controle Remoto,3,84,50,25
+SPIRIT,VENTISOL,Sky,127V,95,5,Metal,Manual,5,87,52,26
+HUNTER FAN,HUNTER,Sky,220V,139,3,Plástico,Controle Remoto,5,95,57,28
+VENTISOL,VENTISOL,Eco Turbo,127V,114,4,Metal,Controle Remoto,5,85,51,25
+SPIRIT,HUNTER,Wind Power,220V,137,4,Plástico,Manual,3,84,50,25
+TRON,HUNTER,Sky,220V,140,3,Plástico,Manual,5,97,58,29
+TRON,SPIRIT,Ocean Breeze,127V,102,4,Plástico,Controle Remoto,5,84,50,25
+HUNTER FAN,SPIRIT,Ocean Breeze,127V,80,4,Plástico,Controle Remoto,3,97,58,29
+HUNTER FAN,TRON,Power Max,127V,93,5,Plástico,Manual,3,89,53,26
+HUNTER FAN,VENTISOL,Eco Turbo,220V,107,3,Plástico,Controle Remoto,3,86,51,25
+HUNTER FAN,SPIRIT,Sky,127V,123,4,Plástico,Manual,3,98,58,29
+TRON,SPIRIT,Sky,127V,128,4,Plástico,Manual,5,93,55,27
+HUNTER FAN,VENTISOL,Power Max,220V,104,5,Plástico,Controle Remoto,5,86,51,25
+TRON,SPIRIT,Eco Turbo,127V,138,5,Metal,Manual,5,98,58,29
+TRON,TRON,Ocean Breeze,127V,115,5,Metal,Manual,5,97,58,29
+TRON,HUNTER,Ocean Breeze,127V,141,5,Metal,Manual,3,88,52,26
+VENTISOL,HUNTER,Ocean Breeze,220V,109,3,Metal,Controle Remoto,5,90,54,27
+SPIRIT,SPIRIT,Eco Turbo,127V,85,3,Metal,Controle Remoto,5,84,50,25
+HUNTER FAN,HUNTER,Wind Power,220V,120,4,Plástico,Manual,3,98,58,29
+TRON,VENTISOL,Sky,220V,110,5,Plástico,Controle Remoto,5,99,59,29
+TRON,VENTISOL,Wind Power,127V,139,5,Plástico,Controle Remoto,5,98,58,29
+HUNTER FAN,VENTISOL,Wind Power,220V,99,3,Plástico,Manual,5,94,56,28
+SPIRIT,TRON,Sky,220V,132,4,Plástico,Manual,3,82,49,24
+VENTISOL,HUNTER,Eco Turbo,220V,139,3,Plástico,Manual,5,88,52,26
+SPIRIT,SPIRIT,Eco Turbo,127V,111,4,Plástico,Controle Remoto,3,92,55,27
+VENTISOL,TRON,Power Max,220V,102,5,Metal,Manual,5,81,48,24
+HUNTER FAN,VENTISOL,Eco Turbo,220V,133,3,Metal,Manual,3,95,57,28
+SPIRIT,SPIRIT,Ocean Breeze,127V,104,5,Plástico,Controle Remoto,3,96,57,28
+SPIRIT,TRON,Power Max,220V,94,4,Plástico,Controle Remoto,3,94,56,28
+SPIRIT,HUNTER,Wind Power,220V,86,4,Metal,Manual,5,84,50,25
+TRON,HUNTER,Ocean Breeze,220V,147,3,Metal,Controle Remoto,5,100,60,30
+VENTISOL,HUNTER,Wind Power,127V,129,4,Metal,Controle Remoto,3,90,54,27
+VENTISOL,SPIRIT,Wind Power,127V,122,4,Plástico,Manual,3,83,49,24
+HUNTER FAN,HUNTER,Wind Power,220V,101,3,Plástico,Manual,5,95,57,28
+SPIRIT,SPIRIT,Sky,220V,117,3,Metal,Manual,5,90,54,27
+TRON,SPIRIT,Ocean Breeze,220V,130,5,Plástico,Manual,3,92,55,27
+SPIRIT,SPIRIT,Wind Power,220V,99,5,Plástico,Controle Remoto,3,89,53,26
+HUNTER FAN,TRON,Eco Turbo,220V,140,4,Metal,Manual,5,83,49,24
+TRON,SPIRIT,Ocean Breeze,127V,118,4,Metal,Controle Remoto,5,87,52,26
+TRON,HUNTER,Ocean Breeze,220V,87,5,Plástico,Controle Remoto,5,99,59,29
+SPIRIT,SPIRIT,Wind Power,127V,122,3,Plástico,Manual,3,92,55,27
+HUNTER FAN,SPIRIT,Ocean Breeze,127V,148,5,Metal,Controle Remoto,3,81,48,24
+SPIRIT,VENTISOL,Eco Turbo,220V,121,4,Plástico,Controle Remoto,5,95,57,28
+SPIRIT,VENTISOL,Sky,220V,92,3,Plástico,Manual,3,93,55,27
+VENTISOL,HUNTER,Sky,127V,107,5,Metal,Manual,3,91,54,27
+VENTISOL,VENTISOL,Wind Power,127V,87,3,Plástico,Controle Remoto,5,99,59,29
+SPIRIT,SPIRIT,Eco Turbo,127V,145,4,Metal,Controle Remoto,5,83,49,24
+TRON,TRON,Wind Power,220V,112,5,Metal,Manual,5,82,49,24
+SPIRIT,VENTISOL,Eco Turbo,220V,126,5,Plástico,Manual,3,84,50,25
+SPIRIT,TRON,Wind Power,127V,129,5,Plástico,Manual,5,83,49,24
+VENTISOL,SPIRIT,Power Max,220V,114,3,Metal,Manual,5,88,52,26
+SPIRIT,TRON,Ocean Breeze,127V,93,5,Metal,Controle Remoto,5,91,54,27
+HUNTER FAN,HUNTER,Power Max,220V,107,5,Plástico,Manual,5,99,59,29
+TRON,SPIRIT,Wind Power,127V,100,4,Plástico,Manual,3,84,50,25
+SPIRIT,SPIRIT,Eco Turbo,220V,92,3,Plástico,Manual,3,90,54,27
+HUNTER FAN,VENTISOL,Wind Power,220V,86,4,Plástico,Controle Remoto,3,91,54,27
+SPIRIT,TRON,Sky,127V,147,3,Metal,Manual,5,100,60,30
+VENTISOL,HUNTER,Wind Power,127V,145,4,Metal,Controle Remoto,3,86,51,25
+SPIRIT,TRON,Wind Power,220V,80,4,Plástico,Controle Remoto,5,97,58,29
+SPIRIT,VENTISOL,Ocean Breeze,220V,145,5,Plástico,Manual,5,99,59,29
+HUNTER FAN,HUNTER,Eco Turbo,220V,109,3,Plástico,Controle Remoto,3,98,58,29
+HUNTER FAN,HUNTER,Sky,127V,88,4,Metal,Controle Remoto,3,96,57,28
+SPIRIT,HUNTER,Ocean Breeze,127V,150,5,Plástico,Controle Remoto,5,100,60,30
+SPIRIT,VENTISOL,Wind Power,127V,89,3,Plástico,Manual,5,80,48,24
+VENTISOL,TRON,Ocean Breeze,127V,102,5,Metal,Controle Remoto,3,92,55,27
+TRON,TRON,Sky,127V,135,3,Plástico,Manual,3,90,54,27
+SPIRIT,HUNTER,Power Max,220V,112,5,Plástico,Controle Remoto,3,83,49,24
+VENTISOL,TRON,Power Max,220V,132,3,Plástico,Controle Remoto,5,99,59,29
+TRON,VENTISOL,Ocean Breeze,127V,85,3,Plástico,Controle Remoto,5,100,60,30
+VENTISOL,VENTISOL,Eco Turbo,127V,109,3,Plástico,Manual,3,81,48,24
+SPIRIT,VENTISOL,Eco Turbo,220V,113,5,Metal,Manual,5,92,55,27
+VENTISOL,HUNTER,Eco Turbo,220V,97,3,Plástico,Manual,5,84,50,25
+SPIRIT,SPIRIT,Eco Turbo,220V,87,3,Plástico,Controle Remoto,3,96,57,28
+TRON,SPIRIT,Ocean Breeze,127V,80,4,Metal,Controle Remoto,3,81,48,24
+SPIRIT,VENTISOL,Wind Power,127V,118,5,Metal,Controle Remoto,3,83,49,24
+HUNTER FAN,HUNTER,Sky,220V,146,5,Plástico,Controle Remoto,3,92,55,27
+TRON,HUNTER,Power Max,220V,146,5,Plástico,Controle Remoto,5,100,60,30
+TRON,HUNTER,Sky,220V,135,4,Metal,Controle Remoto,5,86,51,25
+TRON,VENTISOL,Eco Turbo,127V,92,3,Metal,Controle Remoto,5,87,52,26
+SPIRIT,HUNTER,Eco Turbo,220V,97,4,Plástico,Manual,5,89,53,26
+TRON,VENTISOL,Eco Turbo,127V,93,5,Metal,Manual,3,82,49,24
+HUNTER FAN,HUNTER,Eco Turbo,220V,111,3,Metal,Controle Remoto,5,81,48,24
+HUNTER FAN,VENTISOL,Wind Power,220V,87,5,Plástico,Controle Remoto,5,86,51,25
+TRON,HUNTER,Eco Turbo,220V,104,5,Metal,Manual,5,99,59,29
+SPIRIT,HUNTER,Eco Turbo,127V,92,3,Plástico,Manual,3,94,56,28
+VENTISOL,TRON,Ocean Breeze,220V,126,5,Plástico,Controle Remoto,3,95,57,28
+HUNTER FAN,TRON,Power Max,220V,143,4,Metal,Controle Remoto,5,91,54,27
+HUNTER FAN,TRON,Sky,127V,89,4,Plástico,Manual,3,84,50,25
+SPIRIT,TRON,Power Max,127V,105,3,Plástico,Controle Remoto,3,80,48,24
+TRON,HUNTER,Eco Turbo,220V,141,5,Plástico,Manual,5,80,48,24
+TRON,TRON,Power Max,127V,89,3,Plástico,Controle Remoto,3,83,49,24
+HUNTER FAN,VENTISOL,Sky,220V,106,3,Metal,Controle Remoto,3,89,53,26
+TRON,SPIRIT,Eco Turbo,220V,126,5,Metal,Controle Remoto,5,82,49,24
+HUNTER FAN,TRON,Eco Turbo,220V,147,4,Metal,Manual,3,84,50,25
+SPIRIT,TRON,Eco Turbo,127V,148,3,Metal,Manual,5,95,57,28
+HUNTER FAN,SPIRIT,Sky,220V,127,4,Plástico,Manual,3,87,52,26
+TRON,VENTISOL,Eco Turbo,220V,133,3,Metal,Controle Remoto,5,95,57,28
+TRON,VENTISOL,Wind Power,127V,107,3,Plástico,Controle Remoto,3,81,48,24
+HUNTER FAN,TRON,Power Max,220V,143,4,Metal,Manual,5,88,52,26
+HUNTER FAN,SPIRIT,Sky,127V,109,4,Plástico,Manual,3,81,48,24
+VENTISOL,HUNTER,Power Max,220V,100,4,Plástico,Controle Remoto,5,86,51,25
+HUNTER FAN,HUNTER,Eco Turbo,220V,81,4,Metal,Manual,3,92,55,27
+VENTISOL,TRON,Eco Turbo,220V,131,4,Metal,Controle Remoto,3,85,51,25
+TRON,TRON,Ocean Breeze,127V,111,3,Plástico,Controle Remoto,5,81,48,24
+TRON,HUNTER,Power Max,127V,104,3,Metal,Controle Remoto,3,99,59,29
+SPIRIT,TRON,Wind Power,220V,137,5,Metal,Manual,5,80,48,24
+HUNTER FAN,SPIRIT,Sky,220V,143,5,Metal,Controle Remoto,3,97,58,29
+SPIRIT,SPIRIT,Power Max,220V,89,3,Metal,Manual,5,83,49,24
+TRON,TRON,Sky,220V,86,4,Plástico,Controle Remoto,5,86,51,25
+SPIRIT,SPIRIT,Sky,220V,138,4,Plástico,Controle Remoto,5,80,48,24
+HUNTER FAN,VENTISOL,Ocean Breeze,127V,145,4,Metal,Manual,5,81,48,24
+SPIRIT,VENTISOL,Power Max,220V,106,5,Metal,Controle Remoto,3,87,52,26
+VENTISOL,HUNTER,Sky,220V,127,3,Metal,Controle Remoto,3,91,54,27
+TRON,SPIRIT,Sky,127V,119,5,Plástico,Manual,5,89,53,26
+SPIRIT,VENTISOL,Power Max,220V,141,4,Metal,Controle Remoto,5,100,60,30
+VENTISOL,VENTISOL,Ocean Breeze,220V,127,5,Plástico,Manual,3,83,49,24
+VENTISOL,HUNTER,Ocean Breeze,220V,100,5,Plástico,Manual,5,89,53,26
+HUNTER FAN,SPIRIT,Ocean Breeze,127V,91,3,Metal,Controle Remoto,5,99,59,29
+HUNTER FAN,TRON,Ocean Breeze,127V,90,3,Metal,Controle Remoto,5,94,56,28
+VENTISOL,TRON,Power Max,220V,90,5,Metal,Controle Remoto,3,95,57,28
+HUNTER FAN,HUNTER,Power Max,220V,149,3,Metal,Controle Remoto,3,91,54,27
+TRON,SPIRIT,Eco Turbo,220V,108,5,Metal,Manual,3,88,52,26
+HUNTER FAN,HUNTER,Sky,127V,80,5,Metal,Manual,5,81,48,24
+SPIRIT,HUNTER,Power Max,127V,121,5,Metal,Manual,5,89,53,26
+SPIRIT,TRON,Eco Turbo,127V,119,5,Plástico,Manual,5,87,52,26
+TRON,HUNTER,Power Max,220V,124,5,Plástico,Manual,3,85,51,25
+HUNTER FAN,VENTISOL,Sky,220V,116,3,Metal,Controle Remoto,5,93,55,27
+SPIRIT,TRON,Wind Power,127V,125,5,Plástico,Controle Remoto,5,85,51,25
+VENTISOL,TRON,Ocean Breeze,127V,86,5,Plástico,Controle Remoto,3,80,48,24
+TRON,VENTISOL,Wind Power,127V,134,5,Plástico,Controle Remoto,5,95,57,28
+VENTISOL,VENTISOL,Power Max,127V,104,3,Plástico,Manual,3,94,56,28
+VENTISOL,TRON,Ocean Breeze,220V,100,3,Plástico,Manual,5,89,53,26
+SPIRIT,VENTISOL,Eco Turbo,220V,133,3,Plástico,Manual,5,97,58,29
+VENTISOL,TRON,Sky,127V,106,3,Plástico,Controle Remoto,5,92,55,27
+HUNTER FAN,TRON,Sky,220V,134,5,Metal,Controle Remoto,3,95,57,28
+TRON,HUNTER,Eco Turbo,220V,80,5,Plástico,Manual,3,90,54,27
+TRON,TRON,Sky,220V,80,4,Metal,Manual,3,90,54,27
+TRON,HUNTER,Eco Turbo,127V,126,4,Metal,Controle Remoto,5,95,57,28
+TRON,HUNTER,Wind Power,127V,84,4,Plástico,Controle Remoto,5,80,48,24
+TRON,SPIRIT,Ocean Breeze,220V,111,5,Metal,Controle Remoto,3,97,58,29
+HUNTER FAN,TRON,Wind Power,127V,85,4,Metal,Controle Remoto,3,90,54,27
+VENTISOL,HUNTER,Power Max,127V,132,5,Metal,Controle Remoto,5,82,49,24
+SPIRIT,HUNTER,Eco Turbo,220V,127,3,Plástico,Controle Remoto,3,94,56,28
+TRON,SPIRIT,Sky,220V,119,4,Metal,Manual,3,81,48,24
+SPIRIT,VENTISOL,Wind Power,127V,97,3,Metal,Manual,3,82,49,24
+TRON,TRON,Sky,220V,82,5,Plástico,Manual,5,91,54,27
+HUNTER FAN,VENTISOL,Sky,220V,134,4,Plástico,Manual,5,99,59,29
+HUNTER FAN,SPIRIT,Ocean Breeze,127V,96,5,Metal,Manual,3,98,58,29
+VENTISOL,HUNTER,Power Max,127V,94,3,Metal,Controle Remoto,3,87,52,26
+SPIRIT,HUNTER,Sky,220V,133,3,Metal,Manual,5,86,51,25
+SPIRIT,TRON,Power Max,127V,103,4,Metal,Manual,5,84,50,25
+HUNTER FAN,HUNTER,Sky,127V,138,3,Plástico,Manual,3,84,50,25
+VENTISOL,TRON,Wind Power,127V,104,5,Plástico,Manual,3,96,57,28
+VENTISOL,TRON,Power Max,220V,86,3,Metal,Controle Remoto,5,99,59,29
+SPIRIT,HUNTER,Sky,220V,84,4,Metal,Manual,5,95,57,28
+HUNTER FAN,HUNTER,Eco Turbo,220V,120,5,Metal,Controle Remoto,5,93,55,27
+VENTISOL,TRON,Eco Turbo,127V,131,4,Plástico,Manual,3,93,55,27
+HUNTER FAN,HUNTER,Eco Turbo,220V,142,4,Metal,Controle Remoto,5,86,51,25
+SPIRIT,VENTISOL,Sky,220V,98,4,Plástico,Controle Remoto,3,90,54,27
+TRON,HUNTER,Eco Turbo,220V,89,3,Plástico,Manual,5,89,53,26
+VENTISOL,TRON,Power Max,127V,121,4,Plástico,Manual,5,97,58,29
+TRON,SPIRIT,Eco Turbo,127V,131,4,Plástico,Controle Remoto,5,86,51,25
+VENTISOL,TRON,Ocean Breeze,220V,116,3,Plástico,Manual,5,98,58,29
+VENTISOL,TRON,Wind Power,127V,117,5,Plástico,Controle Remoto,3,91,54,27
+HUNTER FAN,HUNTER,Wind Power,220V,133,5,Plástico,Controle Remoto,5,93,55,27
+HUNTER FAN,VENTISOL,Ocean Breeze,127V,118,3,Metal,Controle Remoto,5,96,57,28
+VENTISOL,TRON,Power Max,127V,92,3,Metal,Manual,5,88,52,26
+SPIRIT,VENTISOL,Sky,127V,103,3,Plástico,Manual,5,87,52,26
+SPIRIT,SPIRIT,Wind Power,127V,99,3,Plástico,Manual,3,80,48,24
+SPIRIT,TRON,Eco Turbo,127V,101,3,Metal,Controle Remoto,3,83,49,24
+HUNTER FAN,VENTISOL,Ocean Breeze,127V,139,3,Metal,Manual,5,97,58,29
+HUNTER FAN,SPIRIT,Wind Power,127V,116,3,Metal,Manual,3,99,59,29
+VENTISOL,VENTISOL,Ocean Breeze,127V,120,4,Metal,Controle Remoto,5,89,53,26
+HUNTER FAN,TRON,Eco Turbo,220V,105,5,Metal,Controle Remoto,5,90,54,27
+SPIRIT,SPIRIT,Power Max,220V,122,5,Metal,Controle Remoto,3,88,52,26
+HUNTER FAN,HUNTER,Wind Power,220V,121,5,Metal,Controle Remoto,5,97,58,29
+TRON,HUNTER,Power Max,127V,128,3,Plástico,Controle Remoto,3,99,59,29
+VENTISOL,HUNTER,Power Max,127V,82,3,Metal,Manual,3,81,48,24
+SPIRIT,SPIRIT,Power Max,220V,99,5,Plástico,Controle Remoto,3,87,52,26
+TRON,VENTISOL,Ocean Breeze,220V,116,4,Metal,Manual,5,100,60,30
+HUNTER FAN,SPIRIT,Eco Turbo,127V,97,4,Plástico,Controle Remoto,3,85,51,25
+HUNTER FAN,TRON,Sky,127V,85,4,Metal,Controle Remoto,3,100,60,30
+VENTISOL,TRON,Eco Turbo,220V,120,4,Metal,Controle Remoto,5,83,49,24
+HUNTER FAN,SPIRIT,Sky,127V,113,5,Metal,Manual,3,93,55,27
+VENTISOL,SPIRIT,Sky,220V,147,5,Plástico,Manual,5,94,56,28
+SPIRIT,SPIRIT,Ocean Breeze,220V,119,5,Plástico,Manual,5,89,53,26
+HUNTER FAN,HUNTER,Power Max,220V,84,4,Plástico,Controle Remoto,5,89,53,26
+VENTISOL,HUNTER,Eco Turbo,220V,133,5,Metal,Controle Remoto,5,82,49,24
+TRON,VENTISOL,Sky,127V,135,4,Metal,Manual,5,96,57,28
+SPIRIT,SPIRIT,Wind Power,127V,140,5,Metal,Manual,3,99,59,29
+SPIRIT,SPIRIT,Power Max,127V,131,3,Metal,Manual,3,98,58,29
+HUNTER FAN,TRON,Power Max,220V,120,5,Plástico,Manual,5,90,54,27
+VENTISOL,SPIRIT,Ocean Breeze,127V,91,4,Metal,Manual,5,87,52,26
+HUNTER FAN,VENTISOL,Ocean Breeze,220V,114,4,Plástico,Controle Remoto,5,99,59,29
+SPIRIT,TRON,Eco Turbo,127V,84,5,Plástico,Controle Remoto,3,81,48,24
+SPIRIT,HUNTER,Sky,127V,83,5,Plástico,Manual,5,90,54,27
+TRON,TRON,Sky,127V,117,4,Plástico,Controle Remoto,3,80,48,24
+HUNTER FAN,VENTISOL,Sky,220V,134,5,Metal,Manual,5,87,52,26
+SPIRIT,VENTISOL,Wind Power,127V,131,3,Plástico,Controle Remoto,5,80,48,24
+SPIRIT,HUNTER,Wind Power,220V,125,5,Metal,Manual,3,95,57,28
+TRON,HUNTER,Sky,220V,91,5,Plástico,Manual,3,84,50,25
+TRON,TRON,Ocean Breeze,127V,100,5,Metal,Controle Remoto,5,96,57,28
+VENTISOL,HUNTER,Sky,127V,114,5,Plástico,Controle Remoto,3,96,57,28
+VENTISOL,TRON,Eco Turbo,220V,95,5,Plástico,Controle Remoto,5,95,57,28
+TRON,SPIRIT,Sky,220V,114,5,Plástico,Manual,5,93,55,27
+HUNTER FAN,VENTISOL,Sky,127V,93,4,Metal,Manual,5,98,58,29
+VENTISOL,HUNTER,Sky,220V,147,3,Metal,Manual,3,82,49,24
+VENTISOL,SPIRIT,Wind Power,127V,119,5,Metal,Controle Remoto,5,89,53,26
+VENTISOL,TRON,Sky,220V,114,4,Metal,Manual,3,88,52,26
+TRON,HUNTER,Power Max,127V,98,4,Metal,Controle Remoto,3,93,55,27
+VENTISOL,TRON,Eco Turbo,127V,135,5,Plástico,Manual,5,100,60,30
+SPIRIT,SPIRIT,Sky,220V,97,3,Plástico,Manual,5,100,60,30
+VENTISOL,HUNTER,Ocean Breeze,220V,107,3,Plástico,Manual,3,92,55,27
+HUNTER FAN,SPIRIT,Eco Turbo,127V,118,5,Plástico,Controle Remoto,5,83,49,24
+VENTISOL,TRON,Sky,127V,110,5,Metal,Manual,5,91,54,27
+SPIRIT,SPIRIT,Eco Turbo,127V,147,4,Metal,Controle Remoto,3,91,54,27
+VENTISOL,SPIRIT,Eco Turbo,127V,126,4,Metal,Manual,5,85,51,25
+VENTISOL,SPIRIT,Ocean Breeze,127V,140,5,Metal,Controle Remoto,5,89,53,26
+HUNTER FAN,TRON,Wind Power,220V,139,5,Metal,Manual,3,89,53,26
+TRON,VENTISOL,Ocean Breeze,220V,109,4,Plástico,Controle Remoto,5,96,57,28
+VENTISOL,SPIRIT,Power Max,220V,137,5,Plástico,Manual,5,96,57,28
+HUNTER FAN,HUNTER,Sky,220V,102,3,Plástico,Manual,5,99,59,29
+HUNTER FAN,TRON,Power Max,127V,150,5,Metal,Controle Remoto,3,100,60,30
+SPIRIT,VENTISOL,Eco Turbo,127V,127,5,Metal,Controle Remoto,5,94,56,28
+VENTISOL,TRON,Eco Turbo,220V,115,4,Metal,Manual,3,83,49,24
+TRON,TRON,Eco Turbo,127V,113,5,Metal,Controle Remoto,3,87,52,26
+HUNTER FAN,TRON,Eco Turbo,127V,93,5,Metal,Controle Remoto,5,96,57,28
+TRON,SPIRIT,Ocean Breeze,220V,101,4,Metal,Controle Remoto,5,89,53,26
+SPIRIT,SPIRIT,Ocean Breeze,127V,104,5,Plástico,Manual,5,92,55,27
+VENTISOL,TRON,Wind Power,127V,139,5,Metal,Controle Remoto,3,97,58,29
+HUNTER FAN,TRON,Wind Power,220V,114,3,Plástico,Manual,3,99,59,29
+SPIRIT,VENTISOL,Ocean Breeze,220V,134,4,Plástico,Manual,3,89,53,26
+TRON,SPIRIT,Power Max,127V,131,5,Plástico,Controle Remoto,5,91,54,27
+SPIRIT,HUNTER,Sky,220V,127,3,Plástico,Manual,3,94,56,28
+SPIRIT,TRON,Power Max,220V,128,4,Metal,Controle Remoto,5,85,51,25
+SPIRIT,SPIRIT,Power Max,220V,110,5,Metal,Manual,3,89,53,26
+HUNTER FAN,TRON,Wind Power,127V,93,3,Plástico,Controle Remoto,5,100,60,30
+HUNTER FAN,TRON,Sky,220V,140,5,Plástico,Manual,5,94,56,28
+TRON,SPIRIT,Eco Turbo,127V,140,5,Metal,Controle Remoto,3,91,54,27
+SPIRIT,TRON,Wind Power,220V,136,3,Plástico,Controle Remoto,5,83,49,24
+SPIRIT,VENTISOL,Sky,127V,85,4,Metal,Manual,5,93,55,27
+TRON,SPIRIT,Eco Turbo,127V,134,4,Metal,Controle Remoto,3,98,58,29
+TRON,VENTISOL,Power Max,220V,140,4,Plástico,Manual,3,100,60,30
+TRON,HUNTER,Ocean Breeze,127V,110,5,Plástico,Controle Remoto,5,89,53,26
+TRON,SPIRIT,Eco Turbo,127V,82,5,Plástico,Manual,5,99,59,29
+SPIRIT,VENTISOL,Ocean Breeze,127V,95,5,Plástico,Manual,5,96,57,28
+VENTISOL,SPIRIT,Eco Turbo,127V,150,3,Metal,Manual,3,89,53,26
+SPIRIT,HUNTER,Ocean Breeze,127V,109,5,Metal,Controle Remoto,5,82,49,24
+HUNTER FAN,VENTISOL,Ocean Breeze,220V,135,3,Plástico,Manual,3,99,59,29
+HUNTER FAN,HUNTER,Ocean Breeze,220V,116,4,Metal,Manual,5,89,53,26
+HUNTER FAN,VENTISOL,Sky,127V,88,5,Metal,Controle Remoto,5,98,58,29
+VENTISOL,HUNTER,Wind Power,220V,99,4,Metal,Manual,5,92,55,27
+VENTISOL,SPIRIT,Eco Turbo,127V,109,5,Plástico,Controle Remoto,5,86,51,25
+HUNTER FAN,TRON,Eco Turbo,127V,98,3,Plástico,Controle Remoto,3,81,48,24
+SPIRIT,TRON,Eco Turbo,127V,120,3,Metal,Manual,3,90,54,27
+VENTISOL,HUNTER,Ocean Breeze,127V,139,3,Plástico,Controle Remoto,3,95,57,28
+VENTISOL,TRON,Eco Turbo,220V,96,3,Plástico,Controle Remoto,3,93,55,27
+VENTISOL,VENTISOL,Power Max,220V,139,4,Metal,Manual,5,98,58,29
+TRON,VENTISOL,Eco Turbo,220V,93,3,Metal,Controle Remoto,3,89,53,26
+HUNTER FAN,VENTISOL,Ocean Breeze,127V,87,3,Metal,Manual,3,89,53,26
+HUNTER FAN,HUNTER,Eco Turbo,127V,122,5,Plástico,Controle Remoto,3,87,52,26
+HUNTER FAN,SPIRIT,Eco Turbo,220V,104,5,Metal,Manual,5,99,59,29
+TRON,HUNTER,Sky,127V,105,3,Plástico,Manual,5,91,54,27
+SPIRIT,TRON,Sky,220V,116,3,Plástico,Manual,3,93,55,27
+TRON,VENTISOL,Ocean Breeze,220V,81,3,Plástico,Manual,5,88,52,26
+SPIRIT,TRON,Eco Turbo,220V,128,5,Metal,Controle Remoto,5,95,57,28
+VENTISOL,SPIRIT,Eco Turbo,220V,142,3,Metal,Manual,5,87,52,26
+SPIRIT,SPIRIT,Power Max,220V,83,3,Metal,Manual,5,82,49,24
+HUNTER FAN,VENTISOL,Eco Turbo,127V,99,3,Metal,Controle Remoto,5,92,55,27
+TRON,VENTISOL,Ocean Breeze,127V,119,4,Plástico,Manual,5,98,58,29
+VENTISOL,HUNTER,Eco Turbo,220V,132,3,Plástico,Controle Remoto,3,88,52,26
+TRON,SPIRIT,Ocean Breeze,220V,84,4,Plástico,Manual,5,84,50,25
+HUNTER FAN,HUNTER,Sky,220V,135,4,Plástico,Manual,3,90,54,27
+TRON,VENTISOL,Ocean Breeze,220V,110,5,Plástico,Controle Remoto,3,90,54,27
+SPIRIT,HUNTER,Power Max,220V,125,5,Plástico,Manual,5,99,59,29
+TRON,SPIRIT,Eco Turbo,220V,119,5,Plástico,Controle Remoto,5,96,57,28
+HUNTER FAN,TRON,Ocean Breeze,220V,143,4,Plástico,Manual,3,92,55,27
+VENTISOL,SPIRIT,Power Max,220V,95,4,Metal,Controle Remoto,5,89,53,26
+VENTISOL,VENTISOL,Power Max,127V,120,5,Metal,Controle Remoto,5,95,57,28
+SPIRIT,TRON,Eco Turbo,127V,87,3,Plástico,Manual,3,91,54,27
+TRON,VENTISOL,Sky,127V,125,4,Plástico,Manual,3,87,52,26
+TRON,SPIRIT,Eco Turbo,127V,116,3,Metal,Manual,3,85,51,25
+HUNTER FAN,TRON,Power Max,220V,150,5,Metal,Manual,3,82,49,24
+VENTISOL,HUNTER,Eco Turbo,127V,139,4,Metal,Manual,5,89,53,26
+TRON,SPIRIT,Ocean Breeze,220V,148,5,Plástico,Manual,3,81,48,24
+HUNTER FAN,HUNTER,Ocean Breeze,220V,112,3,Metal,Manual,5,82,49,24
+SPIRIT,SPIRIT,Power Max,220V,139,3,Plástico,Manual,5,90,54,27
+HUNTER FAN,SPIRIT,Ocean Breeze,127V,94,4,Metal,Manual,3,84,50,25
+VENTISOL,SPIRIT,Ocean Breeze,127V,85,5,Metal,Manual,5,99,59,29
+SPIRIT,SPIRIT,Ocean Breeze,220V,90,3,Metal,Controle Remoto,3,94,56,28
+SPIRIT,HUNTER,Sky,220V,132,5,Metal,Manual,3,92,55,27
+SPIRIT,SPIRIT,Power Max,220V,108,3,Metal,Manual,3,86,51,25
+TRON,HUNTER,Wind Power,127V,80,5,Metal,Manual,5,93,55,27
+VENTISOL,SPIRIT,Ocean Breeze,220V,139,5,Metal,Manual,3,85,51,25
+SPIRIT,HUNTER,Wind Power,220V,99,3,Metal,Manual,3,85,51,25
+TRON,HUNTER,Power Max,127V,145,4,Plástico,Manual,5,85,51,25
+TRON,SPIRIT,Sky,127V,96,4,Plástico,Controle Remoto,3,98,58,29
+VENTISOL,VENTISOL,Power Max,220V,144,3,Plástico,Manual,5,81,48,24
+VENTISOL,VENTISOL,Wind Power,127V,117,3,Plástico,Manual,3,80,48,24
+HUNTER FAN,TRON,Power Max,127V,80,5,Metal,Manual,3,98,58,29
+VENTISOL,VENTISOL,Sky,127V,84,5,Metal,Controle Remoto,3,95,57,28
+HUNTER FAN,SPIRIT,Power Max,127V,134,5,Plástico,Controle Remoto,5,83,49,24
+VENTISOL,SPIRIT,Ocean Breeze,220V,102,5,Plástico,Controle Remoto,3,87,52,26
+HUNTER FAN,SPIRIT,Eco Turbo,220V,112,5,Metal,Controle Remoto,3,81,48,24
+HUNTER FAN,VENTISOL,Wind Power,220V,94,4,Plástico,Controle Remoto,3,97,58,29
+HUNTER FAN,TRON,Ocean Breeze,220V,139,5,Plástico,Controle Remoto,3,91,54,27
+SPIRIT,TRON,Wind Power,127V,107,3,Metal,Controle Remoto,3,89,53,26
+TRON,SPIRIT,Wind Power,127V,143,4,Metal,Manual,3,96,57,28
+TRON,SPIRIT,Eco Turbo,127V,123,4,Plástico,Manual,5,86,51,25
+SPIRIT,SPIRIT,Wind Power,220V,82,3,Metal,Controle Remoto,5,82,49,24
+SPIRIT,VENTISOL,Eco Turbo,127V,100,4,Plástico,Controle Remoto,3,86,51,25
+SPIRIT,HUNTER,Ocean Breeze,220V,92,5,Metal,Manual,5,89,53,26
+HUNTER FAN,SPIRIT,Eco Turbo,220V,120,5,Metal,Controle Remoto,3,95,57,28
+SPIRIT,SPIRIT,Power Max,220V,144,5,Plástico,Controle Remoto,5,91,54,27
+HUNTER FAN,VENTISOL,Power Max,220V,149,4,Plástico,Controle Remoto,5,97,58,29
+SPIRIT,HUNTER,Eco Turbo,127V,105,5,Metal,Manual,5,91,54,27
+SPIRIT,SPIRIT,Ocean Breeze,127V,92,5,Plástico,Controle Remoto,3,89,53,26
+TRON,HUNTER,Power Max,127V,101,4,Plástico,Controle Remoto,5,92,55,27
+SPIRIT,TRON,Power Max,220V,122,3,Plástico,Controle Remoto,3,80,48,24
+SPIRIT,HUNTER,Wind Power,220V,90,4,Plástico,Controle Remoto,3,94,56,28
+TRON,HUNTER,Sky,127V,121,5,Metal,Manual,3,82,49,24
+SPIRIT,SPIRIT,Sky,220V,141,3,Metal,Manual,3,84,50,25
+VENTISOL,VENTISOL,Power Max,220V,143,4,Metal,Controle Remoto,5,96,57,28
+TRON,SPIRIT,Sky,220V,107,3,Metal,Controle Remoto,5,95,57,28
+VENTISOL,TRON,Power Max,127V,122,5,Plástico,Manual,5,91,54,27
+SPIRIT,TRON,Eco Turbo,220V,99,3,Metal,Manual,5,86,51,25
+TRON,HUNTER,Eco Turbo,127V,132,3,Plástico,Controle Remoto,3,82,49,24
+SPIRIT,TRON,Wind Power,220V,146,4,Metal,Controle Remoto,3,80,48,24
+HUNTER FAN,SPIRIT,Power Max,127V,143,3,Metal,Controle Remoto,5,97,58,29
+VENTISOL,TRON,Ocean Breeze,220V,123,5,Plástico,Manual,5,100,60,30
+TRON,TRON,Power Max,127V,130,3,Metal,Manual,3,94,56,28
+SPIRIT,SPIRIT,Power Max,127V,150,4,Metal,Controle Remoto,5,88,52,26
+VENTISOL,TRON,Power Max,220V,127,5,Plástico,Manual,5,99,59,29
+VENTISOL,SPIRIT,Ocean Breeze,220V,133,5,Plástico,Controle Remoto,3,82,49,24
+SPIRIT,TRON,Ocean Breeze,127V,83,3,Metal,Controle Remoto,3,93,55,27
+HUNTER FAN,TRON,Power Max,220V,80,4,Metal,Controle Remoto,3,96,57,28
+HUNTER FAN,TRON,Power Max,127V,94,3,Metal,Controle Remoto,5,88,52,26
+VENTISOL,VENTISOL,Eco Turbo,127V,107,5,Metal,Controle Remoto,3,81,48,24
+SPIRIT,SPIRIT,Power Max,220V,130,4,Metal,Manual,5,97,58,29
+SPIRIT,HUNTER,Sky,127V,99,3,Metal,Controle Remoto,3,86,51,25
+TRON,HUNTER,Power Max,127V,83,5,Metal,Controle Remoto,5,97,58,29
+VENTISOL,SPIRIT,Wind Power,220V,138,5,Metal,Controle Remoto,3,80,48,24
+SPIRIT,TRON,Ocean Breeze,127V,80,4,Plástico,Controle Remoto,5,87,52,26
+SPIRIT,VENTISOL,Wind Power,127V,142,5,Metal,Manual,3,91,54,27
+TRON,VENTISOL,Power Max,127V,141,3,Plástico,Controle Remoto,5,93,55,27
+SPIRIT,VENTISOL,Eco Turbo,220V,83,3,Metal,Controle Remoto,5,97,58,29
+HUNTER FAN,HUNTER,Power Max,220V,81,3,Plástico,Controle Remoto,5,88,52,26
+HUNTER FAN,VENTISOL,Wind Power,127V,140,4,Metal,Controle Remoto,5,83,49,24
+HUNTER FAN,TRON,Power Max,127V,100,4,Plástico,Controle Remoto,3,85,51,25
+TRON,SPIRIT,Eco Turbo,220V,88,4,Metal,Controle Remoto,3,88,52,26
+TRON,SPIRIT,Wind Power,220V,145,5,Metal,Controle Remoto,5,80,48,24
+HUNTER FAN,TRON,Ocean Breeze,220V,112,4,Metal,Manual,3,85,51,25
+SPIRIT,SPIRIT,Ocean Breeze,220V,120,5,Plástico,Controle Remoto,5,81,48,24
+SPIRIT,SPIRIT,Eco Turbo,127V,141,5,Plástico,Controle Remoto,5,87,52,26
+VENTISOL,TRON,Ocean Breeze,220V,148,3,Plástico,Manual,3,82,49,24
+VENTISOL,VENTISOL,Ocean Breeze,220V,118,3,Plástico,Controle Remoto,5,91,54,27
+SPIRIT,VENTISOL,Eco Turbo,220V,147,3,Plástico,Manual,3,87,52,26
+HUNTER FAN,TRON,Sky,127V,98,5,Plástico,Controle Remoto,3,100,60,30
+TRON,HUNTER,Wind Power,220V,101,3,Metal,Controle Remoto,3,98,58,29
+VENTISOL,TRON,Sky,220V,86,3,Plástico,Manual,3,86,51,25
+HUNTER FAN,SPIRIT,Eco Turbo,220V,120,5,Plástico,Controle Remoto,3,83,49,24
+VENTISOL,HUNTER,Wind Power,127V,142,3,Metal,Manual,5,82,49,24
+VENTISOL,SPIRIT,Sky,220V,146,5,Plástico,Manual,3,87,52,26
+TRON,TRON,Power Max,127V,117,4,Metal,Manual,5,84,50,25
+HUNTER FAN,SPIRIT,Power Max,220V,110,5,Plástico,Controle Remoto,3,100,60,30
+SPIRIT,VENTISOL,Ocean Breeze,127V,85,3,Plástico,Controle Remoto,5,97,58,29
+SPIRIT,VENTISOL,Wind Power,220V,87,4,Metal,Manual,3,92,55,27
+TRON,HUNTER,Sky,127V,98,4,Metal,Controle Remoto,3,98,58,29
+SPIRIT,SPIRIT,Power Max,220V,146,5,Metal,Manual,3,82,49,24
+TRON,TRON,Eco Turbo,127V,150,4,Metal,Controle Remoto,3,100,60,30
+TRON,SPIRIT,Ocean Breeze,220V,94,4,Plástico,Controle Remoto,3,82,49,24
+HUNTER FAN,SPIRIT,Wind Power,127V,134,5,Plástico,Controle Remoto,5,95,57,28
+TRON,TRON,Sky,220V,144,4,Metal,Manual,5,99,59,29
+HUNTER FAN,VENTISOL,Ocean Breeze,220V,136,5,Metal,Manual,3,95,57,28
+VENTISOL,SPIRIT,Power Max,220V,139,4,Metal,Manual,5,91,54,27
+VENTISOL,TRON,Sky,127V,143,5,Metal,Manual,5,95,57,28
+HUNTER FAN,VENTISOL,Eco Turbo,220V,120,5,Plástico,Manual,3,80,48,24
+VENTISOL,SPIRIT,Power Max,127V,90,4,Metal,Manual,3,82,49,24
+VENTISOL,TRON,Power Max,220V,148,4,Metal,Manual,5,92,55,27
+SPIRIT,SPIRIT,Eco Turbo,220V,143,3,Metal,Controle Remoto,5,85,51,25
+VENTISOL,SPIRIT,Ocean Breeze,220V,144,5,Metal,Manual,3,89,53,26
+HUNTER FAN,HUNTER,Wind Power,127V,114,5,Metal,Manual,3,97,58,29
+TRON,HUNTER,Sky,127V,104,4,Metal,Manual,3,85,51,25
+VENTISOL,TRON,Wind Power,127V,91,4,Plástico,Controle Remoto,5,90,54,27
+SPIRIT,HUNTER,Sky,127V,102,5,Metal,Manual,5,100,60,30
+VENTISOL,HUNTER,Wind Power,127V,131,4,Metal,Manual,3,82,49,24
+VENTISOL,TRON,Sky,127V,109,5,Metal,Controle Remoto,5,100,60,30
+VENTISOL,SPIRIT,Wind Power,220V,132,3,Metal,Manual,3,89,53,26
+HUNTER FAN,TRON,Ocean Breeze,220V,126,4,Metal,Controle Remoto,5,84,50,25
+VENTISOL,VENTISOL,Eco Turbo,127V,142,5,Metal,Manual,5,92,55,27
+HUNTER FAN,SPIRIT,Ocean Breeze,127V,112,5,Metal,Controle Remoto,3,97,58,29
+HUNTER FAN,SPIRIT,Sky,220V,133,3,Metal,Controle Remoto,5,88,52,26
+TRON,VENTISOL,Eco Turbo,127V,150,4,Metal,Manual,3,81,48,24
+HUNTER FAN,TRON,Sky,127V,99,5,Metal,Manual,3,88,52,26
+HUNTER FAN,VENTISOL,Ocean Breeze,127V,96,4,Metal,Controle Remoto,5,91,54,27
+VENTISOL,TRON,Sky,127V,98,5,Plástico,Controle Remoto,5,86,51,25
+VENTISOL,HUNTER,Eco Turbo,127V,132,3,Plástico,Manual,5,86,51,25
+SPIRIT,VENTISOL,Wind Power,127V,113,4,Plástico,Manual,3,96,57,28
+TRON,TRON,Sky,220V,91,5,Metal,Controle Remoto,5,82,49,24
+SPIRIT,VENTISOL,Wind Power,220V,150,5,Metal,Controle Remoto,3,94,56,28
+HUNTER FAN,HUNTER,Eco Turbo,220V,94,5,Plástico,Manual,5,98,58,29
+TRON,HUNTER,Wind Power,127V,123,4,Plástico,Manual,3,85,51,25
+SPIRIT,SPIRIT,Sky,127V,148,5,Metal,Manual,5,90,54,27
+SPIRIT,TRON,Ocean Breeze,127V,86,3,Plástico,Manual,3,85,51,25
+TRON,VENTISOL,Ocean Breeze,220V,84,3,Metal,Controle Remoto,3,90,54,27
+VENTISOL,TRON,Ocean Breeze,220V,134,3,Plástico,Controle Remoto,3,89,53,26
+HUNTER FAN,SPIRIT,Sky,127V,139,5,Plástico,Manual,3,98,58,29
+TRON,HUNTER,Sky,220V,103,4,Metal,Controle Remoto,5,82,49,24
+HUNTER FAN,SPIRIT,Ocean Breeze,220V,89,3,Metal,Manual,5,89,53,26
+HUNTER FAN,HUNTER,Sky,220V,113,4,Plástico,Controle Remoto,3,99,59,29
+TRON,VENTISOL,Eco Turbo,220V,113,4,Plástico,Controle Remoto,5,81,48,24
+TRON,HUNTER,Sky,127V,82,4,Metal,Controle Remoto,3,85,51,25
+HUNTER FAN,VENTISOL,Eco Turbo,127V,127,5,Metal,Manual,5,91,54,27
+SPIRIT,VENTISOL,Eco Turbo,127V,88,4,Metal,Manual,3,83,49,24
+TRON,HUNTER,Ocean Breeze,220V,100,4,Metal,Controle Remoto,5,96,57,28
+SPIRIT,HUNTER,Sky,220V,136,4,Metal,Controle Remoto,3,87,52,26
+SPIRIT,SPIRIT,Power Max,127V,133,5,Metal,Manual,3,91,54,27
+SPIRIT,TRON,Eco Turbo,220V,108,3,Plástico,Controle Remoto,3,97,58,29
+SPIRIT,VENTISOL,Sky,127V,81,4,Metal,Controle Remoto,3,86,51,25
+HUNTER FAN,SPIRIT,Wind Power,127V,122,5,Metal,Manual,5,93,55,27
+TRON,SPIRIT,Eco Turbo,220V,109,5,Metal,Manual,3,84,50,25
+VENTISOL,TRON,Ocean Breeze,127V,147,3,Metal,Manual,3,80,48,24
+VENTISOL,TRON,Wind Power,220V,88,3,Metal,Controle Remoto,5,100,60,30
+SPIRIT,VENTISOL,Sky,220V,86,3,Plástico,Controle Remoto,3,94,56,28
+VENTISOL,TRON,Sky,127V,119,3,Plástico,Controle Remoto,3,87,52,26
+HUNTER FAN,TRON,Power Max,220V,96,3,Plástico,Controle Remoto,3,84,50,25
+HUNTER FAN,HUNTER,Wind Power,220V,91,5,Plástico,Controle Remoto,5,92,55,27
+VENTISOL,SPIRIT,Wind Power,127V,95,3,Metal,Controle Remoto,3,88,52,26
+HUNTER FAN,HUNTER,Ocean Breeze,220V,149,3,Plástico,Controle Remoto,3,86,51,25

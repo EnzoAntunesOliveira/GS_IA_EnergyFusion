@@ -1,0 +1,51 @@
+fabricante,marca,modelo,voltagem,capacidade_kg,consumo_energia,eficiencia_lavagem,eficiencia_centrifugacao,consumo_agua_total,tempo_ciclo_min
+Pontuação para Máquinas,de Lavar Roupas,Automáticas,com Velocidade,Única,,,,,
+ELECTROLUX,ELECTROLUX,Turbo Clean,220,8,0.14,A,A,120.0,45.0
+LG,LG,Super Wash,127,10,0.11,B,B,130.0,50.0
+SAMSUNG,SAMSUNG,Eco Bubble,220,9,0.13,A,A,115.0,40.0
+WHIRLPOOL,WHIRLPOOL,Whirl Wash,127,12,0.15,A,B,140.0,55.0
+BRASTEMP,BRASTEMP,Active Wash,220,8,0.12,B,A,125.0,48.0
+LG,SAMSUNG,Eco Bubble,220,8,0.14,,B,125.0,
+ELECTROLUX,SAMSUNG,Active Wash,com Velocidade,12,0.12,,A,120.0,
+ELECTROLUX,LG,Whirl Wash,220,12,0.12,,A,130.0,55.0
+SAMSUNG,ELECTROLUX,Turbo Clean,com Velocidade,10,,B,,,48.0
+BRASTEMP,de Lavar Roupas,Eco Bubble,com Velocidade,12,0.11,,A,,45.0
+Pontuação para Máquinas,SAMSUNG,Super Wash,220,9,0.13,,A,130.0,55.0
+Pontuação para Máquinas,WHIRLPOOL,Super Wash,127,12,,,B,140.0,45.0
+ELECTROLUX,BRASTEMP,Automáticas,220,10,0.15,B,B,115.0,48.0
+WHIRLPOOL,WHIRLPOOL,Active Wash,com Velocidade,9,0.12,,,140.0,55.0
+LG,LG,Eco Bubble,127,9,0.13,,A,115.0,40.0
+ELECTROLUX,WHIRLPOOL,Active Wash,127,12,,B,,140.0,
+ELECTROLUX,BRASTEMP,Active Wash,127,Única,0.12,B,,130.0,50.0
+SAMSUNG,SAMSUNG,Automáticas,220,8,0.14,,,130.0,40.0
+SAMSUNG,BRASTEMP,Whirl Wash,127,8,,B,,120.0,40.0
+BRASTEMP,de Lavar Roupas,Eco Bubble,127,9,0.12,,A,,48.0
+ELECTROLUX,ELECTROLUX,Automáticas,220,12,0.14,,,140.0,48.0
+SAMSUNG,SAMSUNG,Automáticas,com Velocidade,8,0.11,A,,115.0,55.0
+LG,WHIRLPOOL,Active Wash,127,Única,,B,,120.0,
+Pontuação para Máquinas,SAMSUNG,Turbo Clean,127,12,0.11,B,B,125.0,55.0
+ELECTROLUX,de Lavar Roupas,Active Wash,127,8,0.13,B,B,120.0,45.0
+LG,LG,Eco Bubble,127,12,0.11,B,B,,45.0
+WHIRLPOOL,BRASTEMP,Super Wash,220,Única,,,A,,45.0
+BRASTEMP,SAMSUNG,Super Wash,220,10,,B,,120.0,40.0
+ELECTROLUX,ELECTROLUX,Whirl Wash,com Velocidade,10,0.12,A,B,140.0,55.0
+WHIRLPOOL,WHIRLPOOL,Automáticas,com Velocidade,Única,0.13,A,,125.0,40.0
+Pontuação para Máquinas,de Lavar Roupas,Automáticas,com Velocidade,9,0.12,B,A,115.0,45.0
+WHIRLPOOL,de Lavar Roupas,Eco Bubble,220,10,0.13,,B,115.0,50.0
+BRASTEMP,de Lavar Roupas,Eco Bubble,com Velocidade,Única,0.11,A,B,,40.0
+ELECTROLUX,BRASTEMP,Automáticas,com Velocidade,8,0.12,B,B,115.0,50.0
+ELECTROLUX,SAMSUNG,Super Wash,com Velocidade,12,0.14,,,140.0,50.0
+BRASTEMP,LG,Whirl Wash,220,10,,,,,50.0
+BRASTEMP,de Lavar Roupas,Active Wash,220,8,0.13,A,B,140.0,45.0
+ELECTROLUX,de Lavar Roupas,Super Wash,com Velocidade,12,,A,A,140.0,55.0
+LG,WHIRLPOOL,Turbo Clean,com Velocidade,9,0.11,A,B,140.0,
+LG,ELECTROLUX,Active Wash,com Velocidade,9,,,B,140.0,40.0
+SAMSUNG,BRASTEMP,Super Wash,127,Única,0.11,B,B,140.0,45.0
+SAMSUNG,SAMSUNG,Super Wash,220,9,0.13,A,B,125.0,45.0
+LG,de Lavar Roupas,Super Wash,127,12,,,A,115.0,55.0
+Pontuação para Máquinas,SAMSUNG,Whirl Wash,220,10,0.11,,B,,50.0
+WHIRLPOOL,de Lavar Roupas,Turbo Clean,127,12,0.12,A,A,130.0,45.0
+Pontuação para Máquinas,SAMSUNG,Automáticas,com Velocidade,10,,,A,130.0,
+ELECTROLUX,SAMSUNG,Turbo Clean,220,9,0.14,A,B,120.0,48.0
+Pontuação para Máquinas,WHIRLPOOL,Super Wash,220,Única,0.12,A,B,120.0,45.0
+WHIRLPOOL,ELECTROLUX,Eco Bubble,220,8,0.12,,,120.0,55.0
