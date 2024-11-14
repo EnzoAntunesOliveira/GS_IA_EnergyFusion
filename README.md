@@ -32,6 +32,9 @@ Os resultados mostram uma melhoria na clareza e acessibilidade das informações
 
 O EnergyFusion cumpre seu objetivo de facilitar decisões conscientes e informadas para os consumidores ao apresentar dados claros e comparáveis sobre a eficiência energética dos eletrodomésticos. Com uma abordagem inovadora baseada em Machine Learning e uma interface acessível, o projeto oferece um impacto positivo, promovendo o uso sustentável de energia. O próximo passo inclui expandir a base de dados para incluir mais categorias de eletrodomésticos e aprimorar o modelo de previsão para regiões com acesso limitado a energia confiável.
 
+## Link vídeo youtube
+### [Vídeo IA](https://youtu.be/qrLKZ-cRk3U)
+
 ## Integrantes
 ### Arthur Fenili RM 552752
 ### Enzo Antunes Oliveira RM 553185
